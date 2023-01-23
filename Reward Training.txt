@@ -1,0 +1,1537 @@
+fps step: 54225 fps step and policy inference: 51559 fps total: 44919 epoch: 1/1000
+fps step: 54241 fps step and policy inference: 52626 fps total: 46611 epoch: 2/1000
+fps step: 35360 fps step and policy inference: 34654 fps total: 31743 epoch: 3/1000
+fps step: 60702 fps step and policy inference: 58419 fps total: 51025 epoch: 4/1000
+fps step: 66749 fps step and policy inference: 64358 fps total: 55580 epoch: 5/1000
+fps step: 66941 fps step and policy inference: 64419 fps total: 55491 epoch: 6/1000
+fps step: 60976 fps step and policy inference: 58726 fps total: 51303 epoch: 7/1000
+fps step: 62012 fps step and policy inference: 59788 fps total: 51939 epoch: 8/1000
+fps step: 62022 fps step and policy inference: 59805 fps total: 51962 epoch: 9/1000
+fps step: 59138 fps step and policy inference: 57001 fps total: 49781 epoch: 10/1000
+fps step: 58130 fps step and policy inference: 56116 fps total: 49065 epoch: 11/1000
+fps step: 49557 fps step and policy inference: 47791 fps total: 41970 epoch: 12/1000
+fps step: 56743 fps step and policy inference: 54673 fps total: 48144 epoch: 13/1000
+fps step: 57097 fps step and policy inference: 54839 fps total: 48370 epoch: 14/1000
+fps step: 61696 fps step and policy inference: 59333 fps total: 51867 epoch: 15/1000
+fps step: 59883 fps step and policy inference: 57574 fps total: 50371 epoch: 16/1000
+fps step: 61161 fps step and policy inference: 58796 fps total: 51504 epoch: 17/1000
+fps step: 58768 fps step and policy inference: 56526 fps total: 48473 epoch: 18/1000
+fps step: 54453 fps step and policy inference: 52416 fps total: 46395 epoch: 19/1000
+fps step: 60666 fps step and policy inference: 58279 fps total: 50858 epoch: 20/1000
+fps step: 60489 fps step and policy inference: 58067 fps total: 50767 epoch: 21/1000
+fps step: 58599 fps step and policy inference: 56251 fps total: 49294 epoch: 22/1000
+fps step: 60800 fps step and policy inference: 58469 fps total: 51160 epoch: 23/1000
+fps step: 59324 fps step and policy inference: 57004 fps total: 49942 epoch: 24/1000
+fps step: 60010 fps step and policy inference: 57701 fps total: 50627 epoch: 25/1000
+fps step: 59928 fps step and policy inference: 57596 fps total: 50332 epoch: 26/1000
+fps step: 60673 fps step and policy inference: 58259 fps total: 50962 epoch: 27/1000
+fps step: 61758 fps step and policy inference: 59344 fps total: 51700 epoch: 28/1000
+fps step: 59318 fps step and policy inference: 57043 fps total: 50056 epoch: 29/1000
+fps step: 58625 fps step and policy inference: 56431 fps total: 49445 epoch: 30/1000
+fps step: 61735 fps step and policy inference: 59391 fps total: 51789 epoch: 31/1000
+fps step: 62656 fps step and policy inference: 60243 fps total: 52381 epoch: 32/1000
+fps step: 64689 fps step and policy inference: 62046 fps total: 53984 epoch: 33/1000
+fps step: 64696 fps step and policy inference: 61997 fps total: 53816 epoch: 34/1000
+fps step: 64413 fps step and policy inference: 61851 fps total: 53770 epoch: 35/1000
+fps step: 63734 fps step and policy inference: 61062 fps total: 52963 epoch: 36/1000
+fps step: 64854 fps step and policy inference: 62116 fps total: 53895 epoch: 37/1000
+fps step: 64734 fps step and policy inference: 62093 fps total: 53949 epoch: 38/1000
+fps step: 63472 fps step and policy inference: 60763 fps total: 52899 epoch: 39/1000
+fps step: 61369 fps step and policy inference: 58977 fps total: 51257 epoch: 40/1000
+fps step: 59870 fps step and policy inference: 57519 fps total: 50346 epoch: 41/1000
+fps step: 60745 fps step and policy inference: 58424 fps total: 50934 epoch: 42/1000
+fps step: 61204 fps step and policy inference: 58796 fps total: 51296 epoch: 43/1000
+fps step: 56428 fps step and policy inference: 54227 fps total: 47762 epoch: 44/1000
+fps step: 57807 fps step and policy inference: 55621 fps total: 48974 epoch: 45/1000
+fps step: 62831 fps step and policy inference: 60379 fps total: 52660 epoch: 46/1000
+fps step: 62587 fps step and policy inference: 60147 fps total: 52551 epoch: 47/1000
+fps step: 62078 fps step and policy inference: 59712 fps total: 51945 epoch: 48/1000
+fps step: 62421 fps step and policy inference: 60039 fps total: 52415 epoch: 49/1000
+fps step: 59649 fps step and policy inference: 57416 fps total: 49953 epoch: 50/1000
+saving next best rewards:  [28.133347]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 62407 fps step and policy inference: 60026 fps total: 52362 epoch: 51/1000
+saving next best rewards:  [30.012331]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 62825 fps step and policy inference: 60423 fps total: 52393 epoch: 52/1000
+saving next best rewards:  [30.828863]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 63231 fps step and policy inference: 60720 fps total: 52663 epoch: 53/1000
+saving next best rewards:  [31.74558]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 63276 fps step and policy inference: 60847 fps total: 52802 epoch: 54/1000
+saving next best rewards:  [33.602684]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 62951 fps step and policy inference: 60540 fps total: 52674 epoch: 55/1000
+saving next best rewards:  [35.127583]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 62871 fps step and policy inference: 60461 fps total: 52414 epoch: 56/1000
+saving next best rewards:  [37.15737]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 63521 fps step and policy inference: 61054 fps total: 53082 epoch: 57/1000
+saving next best rewards:  [37.791367]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 63105 fps step and policy inference: 60662 fps total: 52840 epoch: 58/1000
+saving next best rewards:  [38.96477]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 63028 fps step and policy inference: 60583 fps total: 52784 epoch: 59/1000
+saving next best rewards:  [41.732235]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 63062 fps step and policy inference: 60676 fps total: 53035 epoch: 60/1000
+saving next best rewards:  [43.278503]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 62033 fps step and policy inference: 59640 fps total: 52249 epoch: 61/1000
+saving next best rewards:  [43.934685]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 60895 fps step and policy inference: 58607 fps total: 51214 epoch: 62/1000
+saving next best rewards:  [46.478428]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 61289 fps step and policy inference: 58994 fps total: 51615 epoch: 63/1000
+fps step: 62691 fps step and policy inference: 60238 fps total: 52568 epoch: 64/1000
+saving next best rewards:  [48.168728]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 63508 fps step and policy inference: 61095 fps total: 53315 epoch: 65/1000
+saving next best rewards:  [48.62982]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 62819 fps step and policy inference: 60415 fps total: 52800 epoch: 66/1000
+saving next best rewards:  [49.36649]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 62701 fps step and policy inference: 60309 fps total: 52700 epoch: 67/1000
+saving next best rewards:  [49.851936]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59536 fps step and policy inference: 57297 fps total: 50178 epoch: 68/1000
+saving next best rewards:  [51.069443]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 63036 fps step and policy inference: 60631 fps total: 52785 epoch: 69/1000
+saving next best rewards:  [53.398308]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 62024 fps step and policy inference: 59684 fps total: 52143 epoch: 70/1000
+saving next best rewards:  [54.481934]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 61065 fps step and policy inference: 58708 fps total: 51277 epoch: 71/1000
+fps step: 61247 fps step and policy inference: 58940 fps total: 51517 epoch: 72/1000
+fps step: 60967 fps step and policy inference: 58504 fps total: 51169 epoch: 73/1000
+fps step: 61592 fps step and policy inference: 59197 fps total: 51664 epoch: 74/1000
+fps step: 60849 fps step and policy inference: 58524 fps total: 51154 epoch: 75/1000
+fps step: 60038 fps step and policy inference: 57818 fps total: 50574 epoch: 76/1000
+fps step: 61958 fps step and policy inference: 59532 fps total: 51911 epoch: 77/1000
+fps step: 60966 fps step and policy inference: 58667 fps total: 51490 epoch: 78/1000
+fps step: 60887 fps step and policy inference: 58608 fps total: 51165 epoch: 79/1000
+fps step: 62141 fps step and policy inference: 59753 fps total: 52020 epoch: 80/1000
+fps step: 62046 fps step and policy inference: 59714 fps total: 52154 epoch: 81/1000
+fps step: 63201 fps step and policy inference: 60820 fps total: 52928 epoch: 82/1000
+fps step: 62943 fps step and policy inference: 60417 fps total: 52799 epoch: 83/1000
+fps step: 62638 fps step and policy inference: 60178 fps total: 52530 epoch: 84/1000
+fps step: 61777 fps step and policy inference: 59427 fps total: 51881 epoch: 85/1000
+fps step: 61586 fps step and policy inference: 59248 fps total: 51749 epoch: 86/1000
+fps step: 62298 fps step and policy inference: 59938 fps total: 52344 epoch: 87/1000
+fps step: 62271 fps step and policy inference: 59871 fps total: 52243 epoch: 88/1000
+fps step: 61700 fps step and policy inference: 59367 fps total: 51942 epoch: 89/1000
+fps step: 61504 fps step and policy inference: 59175 fps total: 51706 epoch: 90/1000
+fps step: 59969 fps step and policy inference: 57751 fps total: 50456 epoch: 91/1000
+fps step: 58843 fps step and policy inference: 56717 fps total: 49779 epoch: 92/1000
+fps step: 61658 fps step and policy inference: 59284 fps total: 51718 epoch: 93/1000
+fps step: 61822 fps step and policy inference: 59501 fps total: 51985 epoch: 94/1000
+fps step: 60903 fps step and policy inference: 58641 fps total: 51286 epoch: 95/1000
+fps step: 61766 fps step and policy inference: 59262 fps total: 51620 epoch: 96/1000
+fps step: 62041 fps step and policy inference: 59585 fps total: 51972 epoch: 97/1000
+fps step: 62839 fps step and policy inference: 60441 fps total: 52562 epoch: 98/1000
+saving next best rewards:  [57.49899]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 61794 fps step and policy inference: 59482 fps total: 52069 epoch: 99/1000
+saving next best rewards:  [61.41051]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 61334 fps step and policy inference: 59027 fps total: 51523 epoch: 100/1000
+saving next best rewards:  [66.803444]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 62370 fps step and policy inference: 59999 fps total: 52382 epoch: 101/1000
+saving next best rewards:  [68.268585]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 61774 fps step and policy inference: 59361 fps total: 51764 epoch: 102/1000
+saving next best rewards:  [72.972916]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 61263 fps step and policy inference: 58930 fps total: 51460 epoch: 103/1000
+fps step: 61676 fps step and policy inference: 59351 fps total: 51904 epoch: 104/1000
+fps step: 61674 fps step and policy inference: 59300 fps total: 51703 epoch: 105/1000
+fps step: 61706 fps step and policy inference: 59404 fps total: 51870 epoch: 106/1000
+fps step: 60092 fps step and policy inference: 57795 fps total: 50563 epoch: 107/1000
+fps step: 60150 fps step and policy inference: 57916 fps total: 50717 epoch: 108/1000
+fps step: 61063 fps step and policy inference: 58778 fps total: 51367 epoch: 109/1000
+fps step: 60836 fps step and policy inference: 58577 fps total: 51310 epoch: 110/1000
+fps step: 59694 fps step and policy inference: 57492 fps total: 50452 epoch: 111/1000
+fps step: 61779 fps step and policy inference: 59393 fps total: 51943 epoch: 112/1000
+fps step: 62737 fps step and policy inference: 60323 fps total: 52591 epoch: 113/1000
+fps step: 61366 fps step and policy inference: 59085 fps total: 51578 epoch: 114/1000
+fps step: 61241 fps step and policy inference: 58956 fps total: 51535 epoch: 115/1000
+fps step: 60904 fps step and policy inference: 58628 fps total: 51324 epoch: 116/1000
+fps step: 61206 fps step and policy inference: 58910 fps total: 51678 epoch: 117/1000
+fps step: 60820 fps step and policy inference: 58552 fps total: 51253 epoch: 118/1000
+fps step: 60540 fps step and policy inference: 58291 fps total: 51014 epoch: 119/1000
+fps step: 61107 fps step and policy inference: 58849 fps total: 51564 epoch: 120/1000
+fps step: 60041 fps step and policy inference: 57790 fps total: 50667 epoch: 121/1000
+fps step: 59807 fps step and policy inference: 57549 fps total: 50456 epoch: 122/1000
+fps step: 59903 fps step and policy inference: 57683 fps total: 50730 epoch: 123/1000
+saving next best rewards:  [73.50585]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 60423 fps step and policy inference: 58218 fps total: 50951 epoch: 124/1000
+fps step: 59941 fps step and policy inference: 57734 fps total: 50504 epoch: 125/1000
+saving next best rewards:  [73.78372]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 60245 fps step and policy inference: 57997 fps total: 50952 epoch: 126/1000
+fps step: 59440 fps step and policy inference: 57240 fps total: 50153 epoch: 127/1000
+fps step: 57602 fps step and policy inference: 55551 fps total: 48735 epoch: 128/1000
+fps step: 60186 fps step and policy inference: 57932 fps total: 50810 epoch: 129/1000
+fps step: 59946 fps step and policy inference: 57718 fps total: 50621 epoch: 130/1000
+saving next best rewards:  [74.76721]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59973 fps step and policy inference: 57750 fps total: 50748 epoch: 131/1000
+saving next best rewards:  [75.8787]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 60061 fps step and policy inference: 57871 fps total: 50651 epoch: 132/1000
+fps step: 60614 fps step and policy inference: 58299 fps total: 51049 epoch: 133/1000
+saving next best rewards:  [77.050026]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59746 fps step and policy inference: 57555 fps total: 50450 epoch: 134/1000
+saving next best rewards:  [78.99956]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 60194 fps step and policy inference: 57991 fps total: 50702 epoch: 135/1000
+saving next best rewards:  [81.444016]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 60591 fps step and policy inference: 58337 fps total: 51139 epoch: 136/1000
+saving next best rewards:  [82.79964]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 60374 fps step and policy inference: 58157 fps total: 50914 epoch: 137/1000
+saving next best rewards:  [85.00077]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 60391 fps step and policy inference: 58164 fps total: 50889 epoch: 138/1000
+saving next best rewards:  [89.488625]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 60066 fps step and policy inference: 57844 fps total: 50865 epoch: 139/1000
+saving next best rewards:  [91.24802]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 60329 fps step and policy inference: 58124 fps total: 50927 epoch: 140/1000
+saving next best rewards:  [92.14788]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 60391 fps step and policy inference: 58171 fps total: 50997 epoch: 141/1000
+saving next best rewards:  [97.03517]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 61047 fps step and policy inference: 58872 fps total: 51468 epoch: 142/1000
+fps step: 60575 fps step and policy inference: 58283 fps total: 50888 epoch: 143/1000
+fps step: 60458 fps step and policy inference: 58249 fps total: 51039 epoch: 144/1000
+saving next best rewards:  [99.03379]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 60620 fps step and policy inference: 58362 fps total: 51259 epoch: 145/1000
+saving next best rewards:  [100.013016]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 61133 fps step and policy inference: 58841 fps total: 51539 epoch: 146/1000
+saving next best rewards:  [104.12739]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 60495 fps step and policy inference: 58289 fps total: 51058 epoch: 147/1000
+saving next best rewards:  [105.49084]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59855 fps step and policy inference: 57660 fps total: 50608 epoch: 148/1000
+saving next best rewards:  [108.00792]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58815 fps step and policy inference: 56701 fps total: 49682 epoch: 149/1000
+saving next best rewards:  [109.7137]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 61240 fps step and policy inference: 59024 fps total: 51580 epoch: 150/1000
+saving next best rewards:  [113.64453]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 60920 fps step and policy inference: 58645 fps total: 51374 epoch: 151/1000
+saving next best rewards:  [119.23436]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 60245 fps step and policy inference: 58031 fps total: 50826 epoch: 152/1000
+saving next best rewards:  [125.66912]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59911 fps step and policy inference: 57717 fps total: 50532 epoch: 153/1000
+saving next best rewards:  [130.56842]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58666 fps step and policy inference: 56527 fps total: 49442 epoch: 154/1000
+fps step: 60164 fps step and policy inference: 57924 fps total: 50521 epoch: 155/1000
+saving next best rewards:  [133.63]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59421 fps step and policy inference: 57225 fps total: 50150 epoch: 156/1000
+saving next best rewards:  [140.6599]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59977 fps step and policy inference: 57745 fps total: 50591 epoch: 157/1000
+saving next best rewards:  [143.54027]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59158 fps step and policy inference: 57059 fps total: 49977 epoch: 158/1000
+saving next best rewards:  [155.53871]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59624 fps step and policy inference: 57375 fps total: 50414 epoch: 159/1000
+saving next best rewards:  [170.27625]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59935 fps step and policy inference: 57734 fps total: 50593 epoch: 160/1000
+saving next best rewards:  [177.53394]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59758 fps step and policy inference: 57580 fps total: 50445 epoch: 161/1000
+saving next best rewards:  [188.98126]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59438 fps step and policy inference: 57284 fps total: 50401 epoch: 162/1000
+saving next best rewards:  [214.70216]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59145 fps step and policy inference: 57032 fps total: 49968 epoch: 163/1000
+saving next best rewards:  [226.52023]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59861 fps step and policy inference: 57657 fps total: 50525 epoch: 164/1000
+saving next best rewards:  [241.83853]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59141 fps step and policy inference: 57021 fps total: 50087 epoch: 165/1000
+saving next best rewards:  [253.07378]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59882 fps step and policy inference: 57694 fps total: 50618 epoch: 166/1000
+saving next best rewards:  [289.77295]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 60428 fps step and policy inference: 58157 fps total: 51004 epoch: 167/1000
+saving next best rewards:  [301.53616]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59812 fps step and policy inference: 57620 fps total: 50507 epoch: 168/1000
+fps step: 60307 fps step and policy inference: 58072 fps total: 50979 epoch: 169/1000
+fps step: 59537 fps step and policy inference: 57328 fps total: 50198 epoch: 170/1000
+saving next best rewards:  [304.30624]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59783 fps step and policy inference: 57630 fps total: 50562 epoch: 171/1000
+saving next best rewards:  [338.6164]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59744 fps step and policy inference: 57563 fps total: 50481 epoch: 172/1000
+saving next best rewards:  [348.1515]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 60013 fps step and policy inference: 57789 fps total: 50719 epoch: 173/1000
+saving next best rewards:  [371.41476]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 60498 fps step and policy inference: 58259 fps total: 51229 epoch: 174/1000
+saving next best rewards:  [387.1017]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58252 fps step and policy inference: 56123 fps total: 49308 epoch: 175/1000
+fps step: 59986 fps step and policy inference: 57710 fps total: 50606 epoch: 176/1000
+fps step: 60178 fps step and policy inference: 57923 fps total: 50748 epoch: 177/1000
+fps step: 60514 fps step and policy inference: 58256 fps total: 51043 epoch: 178/1000
+saving next best rewards:  [409.14722]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59761 fps step and policy inference: 57587 fps total: 50339 epoch: 179/1000
+fps step: 61009 fps step and policy inference: 58729 fps total: 51430 epoch: 180/1000
+saving next best rewards:  [416.85257]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 60633 fps step and policy inference: 58376 fps total: 51076 epoch: 181/1000
+saving next best rewards:  [424.92163]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59873 fps step and policy inference: 57668 fps total: 50243 epoch: 182/1000
+saving next best rewards:  [444.88754]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59761 fps step and policy inference: 57500 fps total: 50356 epoch: 183/1000
+saving next best rewards:  [453.67273]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59073 fps step and policy inference: 56894 fps total: 50003 epoch: 184/1000
+saving next best rewards:  [475.85547]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 60662 fps step and policy inference: 58438 fps total: 51338 epoch: 185/1000
+fps step: 60632 fps step and policy inference: 58342 fps total: 51048 epoch: 186/1000
+saving next best rewards:  [483.78296]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 61442 fps step and policy inference: 59181 fps total: 51843 epoch: 187/1000
+fps step: 60107 fps step and policy inference: 57884 fps total: 50798 epoch: 188/1000
+saving next best rewards:  [498.1038]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 60947 fps step and policy inference: 58698 fps total: 51406 epoch: 189/1000
+saving next best rewards:  [526.90985]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 60580 fps step and policy inference: 58345 fps total: 51153 epoch: 190/1000
+fps step: 59578 fps step and policy inference: 57375 fps total: 50291 epoch: 191/1000
+fps step: 59487 fps step and policy inference: 57271 fps total: 50166 epoch: 192/1000
+fps step: 59812 fps step and policy inference: 57613 fps total: 50694 epoch: 193/1000
+fps step: 60551 fps step and policy inference: 58328 fps total: 51021 epoch: 194/1000
+saving next best rewards:  [560.9927]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 60570 fps step and policy inference: 58299 fps total: 51212 epoch: 195/1000
+saving next best rewards:  [601.4849]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59476 fps step and policy inference: 57307 fps total: 50189 epoch: 196/1000
+saving next best rewards:  [603.8641]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59944 fps step and policy inference: 57773 fps total: 50646 epoch: 197/1000
+fps step: 59004 fps step and policy inference: 56755 fps total: 49785 epoch: 198/1000
+fps step: 59120 fps step and policy inference: 56957 fps total: 50017 epoch: 199/1000
+fps step: 60435 fps step and policy inference: 58266 fps total: 50841 epoch: 200/1000
+=> saving checkpoint 'runs/Crazyflie/nn/last_Crazyflie_ep_200_rew_592.9836.pth'
+fps step: 59723 fps step and policy inference: 57517 fps total: 50361 epoch: 201/1000
+fps step: 58639 fps step and policy inference: 56505 fps total: 49604 epoch: 202/1000
+fps step: 59037 fps step and policy inference: 56906 fps total: 49796 epoch: 203/1000
+saving next best rewards:  [658.4094]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59961 fps step and policy inference: 57699 fps total: 50555 epoch: 204/1000
+saving next best rewards:  [694.14575]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 60294 fps step and policy inference: 58086 fps total: 50761 epoch: 205/1000
+saving next best rewards:  [719.59265]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59225 fps step and policy inference: 57058 fps total: 50070 epoch: 206/1000
+saving next best rewards:  [784.87616]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59904 fps step and policy inference: 57673 fps total: 50611 epoch: 207/1000
+saving next best rewards:  [819.8471]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59747 fps step and policy inference: 57570 fps total: 50308 epoch: 208/1000
+saving next best rewards:  [874.559]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59758 fps step and policy inference: 57543 fps total: 50512 epoch: 209/1000
+saving next best rewards:  [935.0724]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58713 fps step and policy inference: 56569 fps total: 49539 epoch: 210/1000
+saving next best rewards:  [982.34875]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58763 fps step and policy inference: 56637 fps total: 49667 epoch: 211/1000
+saving next best rewards:  [1032.657]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59151 fps step and policy inference: 56941 fps total: 49998 epoch: 212/1000
+saving next best rewards:  [1082.4098]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58355 fps step and policy inference: 56221 fps total: 49347 epoch: 213/1000
+saving next best rewards:  [1172.9677]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59089 fps step and policy inference: 56948 fps total: 49865 epoch: 214/1000
+saving next best rewards:  [1236.7792]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59415 fps step and policy inference: 57214 fps total: 50210 epoch: 215/1000
+saving next best rewards:  [1250.2349]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58979 fps step and policy inference: 56828 fps total: 49828 epoch: 216/1000
+fps step: 58992 fps step and policy inference: 56827 fps total: 49849 epoch: 217/1000
+saving next best rewards:  [1346.0371]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59461 fps step and policy inference: 57243 fps total: 50249 epoch: 218/1000
+saving next best rewards:  [1410.6229]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59424 fps step and policy inference: 57186 fps total: 50104 epoch: 219/1000
+saving next best rewards:  [1411.4095]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59516 fps step and policy inference: 57340 fps total: 50299 epoch: 220/1000
+fps step: 59890 fps step and policy inference: 57633 fps total: 50653 epoch: 221/1000
+saving next best rewards:  [1446.2985]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58922 fps step and policy inference: 56774 fps total: 49952 epoch: 222/1000
+saving next best rewards:  [1462.1083]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59255 fps step and policy inference: 57101 fps total: 50255 epoch: 223/1000
+fps step: 59256 fps step and policy inference: 57026 fps total: 50011 epoch: 224/1000
+saving next best rewards:  [1508.7181]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59697 fps step and policy inference: 57507 fps total: 50563 epoch: 225/1000
+saving next best rewards:  [1510.5217]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 60032 fps step and policy inference: 57826 fps total: 50759 epoch: 226/1000
+saving next best rewards:  [1545.0762]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59854 fps step and policy inference: 57616 fps total: 50512 epoch: 227/1000
+saving next best rewards:  [1588.2986]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 60505 fps step and policy inference: 58262 fps total: 51120 epoch: 228/1000
+saving next best rewards:  [1715.8331]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 60445 fps step and policy inference: 58231 fps total: 51044 epoch: 229/1000
+fps step: 60377 fps step and policy inference: 58125 fps total: 51031 epoch: 230/1000
+fps step: 60200 fps step and policy inference: 57944 fps total: 50873 epoch: 231/1000
+fps step: 59830 fps step and policy inference: 57551 fps total: 50503 epoch: 232/1000
+fps step: 60817 fps step and policy inference: 58550 fps total: 51348 epoch: 233/1000
+fps step: 59647 fps step and policy inference: 57369 fps total: 50491 epoch: 234/1000
+fps step: 59555 fps step and policy inference: 57358 fps total: 50296 epoch: 235/1000
+fps step: 59192 fps step and policy inference: 57006 fps total: 50118 epoch: 236/1000
+fps step: 60146 fps step and policy inference: 57884 fps total: 50758 epoch: 237/1000
+fps step: 60902 fps step and policy inference: 58623 fps total: 51512 epoch: 238/1000
+fps step: 60045 fps step and policy inference: 57817 fps total: 50663 epoch: 239/1000
+saving next best rewards:  [1842.8861]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 60457 fps step and policy inference: 58250 fps total: 51217 epoch: 240/1000
+saving next best rewards:  [1963.8439]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 60125 fps step and policy inference: 57918 fps total: 50726 epoch: 241/1000
+saving next best rewards:  [1983.6371]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59285 fps step and policy inference: 57026 fps total: 50184 epoch: 242/1000
+saving next best rewards:  [2069.1355]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 60263 fps step and policy inference: 58095 fps total: 50963 epoch: 243/1000
+fps step: 60360 fps step and policy inference: 58097 fps total: 51065 epoch: 244/1000
+saving next best rewards:  [2243.3484]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58930 fps step and policy inference: 56730 fps total: 49691 epoch: 245/1000
+saving next best rewards:  [2355.4194]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59520 fps step and policy inference: 57314 fps total: 50190 epoch: 246/1000
+saving next best rewards:  [2655.729]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59577 fps step and policy inference: 57385 fps total: 50452 epoch: 247/1000
+saving next best rewards:  [2785.0955]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59719 fps step and policy inference: 57498 fps total: 50450 epoch: 248/1000
+saving next best rewards:  [3075.9915]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59869 fps step and policy inference: 57677 fps total: 50715 epoch: 249/1000
+saving next best rewards:  [3215.4275]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58825 fps step and policy inference: 56681 fps total: 49742 epoch: 250/1000
+saving next best rewards:  [3280.969]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58606 fps step and policy inference: 56481 fps total: 49691 epoch: 251/1000
+fps step: 59379 fps step and policy inference: 57201 fps total: 50312 epoch: 252/1000
+saving next best rewards:  [3508.8652]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58866 fps step and policy inference: 56700 fps total: 49785 epoch: 253/1000
+saving next best rewards:  [3681.4905]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58311 fps step and policy inference: 56174 fps total: 49262 epoch: 254/1000
+saving next best rewards:  [3926.177]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58948 fps step and policy inference: 56760 fps total: 49868 epoch: 255/1000
+fps step: 59020 fps step and policy inference: 56854 fps total: 49843 epoch: 256/1000
+saving next best rewards:  [4090.4036]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 57408 fps step and policy inference: 55344 fps total: 48615 epoch: 257/1000
+saving next best rewards:  [4106.1987]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 55485 fps step and policy inference: 53488 fps total: 47274 epoch: 258/1000
+saving next best rewards:  [4176.242]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58395 fps step and policy inference: 56246 fps total: 49574 epoch: 259/1000
+saving next best rewards:  [4226.686]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59377 fps step and policy inference: 57205 fps total: 50160 epoch: 260/1000
+saving next best rewards:  [4306.152]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58696 fps step and policy inference: 56544 fps total: 49556 epoch: 261/1000
+saving next best rewards:  [4480.6587]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58860 fps step and policy inference: 56729 fps total: 49867 epoch: 262/1000
+saving next best rewards:  [4592.231]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58147 fps step and policy inference: 56044 fps total: 49292 epoch: 263/1000
+saving next best rewards:  [4614.944]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59270 fps step and policy inference: 57016 fps total: 50043 epoch: 264/1000
+saving next best rewards:  [4644.994]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 56625 fps step and policy inference: 54575 fps total: 48202 epoch: 265/1000
+saving next best rewards:  [4674.456]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 55941 fps step and policy inference: 53823 fps total: 47683 epoch: 266/1000
+fps step: 58909 fps step and policy inference: 56781 fps total: 49979 epoch: 267/1000
+fps step: 58938 fps step and policy inference: 56778 fps total: 49897 epoch: 268/1000
+fps step: 59050 fps step and policy inference: 56860 fps total: 49957 epoch: 269/1000
+fps step: 59554 fps step and policy inference: 57373 fps total: 50425 epoch: 270/1000
+fps step: 58452 fps step and policy inference: 56275 fps total: 49523 epoch: 271/1000
+saving next best rewards:  [4697.68]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58321 fps step and policy inference: 56248 fps total: 49376 epoch: 272/1000
+saving next best rewards:  [4869.6445]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 57849 fps step and policy inference: 55781 fps total: 48966 epoch: 273/1000
+saving next best rewards:  [5110.7065]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 57486 fps step and policy inference: 55421 fps total: 48684 epoch: 274/1000
+fps step: 58438 fps step and policy inference: 56334 fps total: 49418 epoch: 275/1000
+saving next best rewards:  [5148.61]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58527 fps step and policy inference: 56453 fps total: 49579 epoch: 276/1000
+saving next best rewards:  [5169.3896]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58970 fps step and policy inference: 56827 fps total: 49820 epoch: 277/1000
+saving next best rewards:  [5242.017]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58114 fps step and policy inference: 55999 fps total: 49185 epoch: 278/1000
+saving next best rewards:  [5263.6167]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 57555 fps step and policy inference: 55505 fps total: 48793 epoch: 279/1000
+saving next best rewards:  [5400.61]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58290 fps step and policy inference: 56197 fps total: 49313 epoch: 280/1000
+saving next best rewards:  [5631.9844]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58268 fps step and policy inference: 56188 fps total: 49366 epoch: 281/1000
+saving next best rewards:  [5897.655]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58685 fps step and policy inference: 56613 fps total: 49576 epoch: 282/1000
+saving next best rewards:  [6165.9253]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58776 fps step and policy inference: 56650 fps total: 49666 epoch: 283/1000
+saving next best rewards:  [6229.3467]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58817 fps step and policy inference: 56717 fps total: 49721 epoch: 284/1000
+saving next best rewards:  [6445.471]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58154 fps step and policy inference: 56073 fps total: 49296 epoch: 285/1000
+saving next best rewards:  [6545.6763]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 56684 fps step and policy inference: 54697 fps total: 48086 epoch: 286/1000
+saving next best rewards:  [6702.6226]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58919 fps step and policy inference: 56819 fps total: 49943 epoch: 287/1000
+fps step: 59290 fps step and policy inference: 57109 fps total: 49999 epoch: 288/1000
+fps step: 55093 fps step and policy inference: 53115 fps total: 46928 epoch: 289/1000
+saving next best rewards:  [6803.421]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 55310 fps step and policy inference: 53295 fps total: 47065 epoch: 290/1000
+saving next best rewards:  [7130.549]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 54580 fps step and policy inference: 52563 fps total: 46561 epoch: 291/1000
+saving next best rewards:  [7244.138]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59142 fps step and policy inference: 56993 fps total: 49953 epoch: 292/1000
+saving next best rewards:  [7411.3247]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58574 fps step and policy inference: 56506 fps total: 49626 epoch: 293/1000
+saving next best rewards:  [7682.223]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59411 fps step and policy inference: 57181 fps total: 50172 epoch: 294/1000
+saving next best rewards:  [7971.574]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58696 fps step and policy inference: 56591 fps total: 49700 epoch: 295/1000
+saving next best rewards:  [8122.4663]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59518 fps step and policy inference: 57361 fps total: 50187 epoch: 296/1000
+saving next best rewards:  [8421.163]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59514 fps step and policy inference: 57358 fps total: 50348 epoch: 297/1000
+saving next best rewards:  [8587.327]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59547 fps step and policy inference: 57376 fps total: 50225 epoch: 298/1000
+saving next best rewards:  [8868.986]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59796 fps step and policy inference: 57606 fps total: 50577 epoch: 299/1000
+saving next best rewards:  [8925.273]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59915 fps step and policy inference: 57748 fps total: 50521 epoch: 300/1000
+saving next best rewards:  [9114.429]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59813 fps step and policy inference: 57575 fps total: 50504 epoch: 301/1000
+saving next best rewards:  [9265.625]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59699 fps step and policy inference: 57538 fps total: 50413 epoch: 302/1000
+fps step: 59572 fps step and policy inference: 57368 fps total: 50232 epoch: 303/1000
+saving next best rewards:  [9328.9375]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59442 fps step and policy inference: 57254 fps total: 50293 epoch: 304/1000
+saving next best rewards:  [9381.061]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59622 fps step and policy inference: 57420 fps total: 50263 epoch: 305/1000
+saving next best rewards:  [9396.533]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59718 fps step and policy inference: 57556 fps total: 50527 epoch: 306/1000
+fps step: 59544 fps step and policy inference: 57339 fps total: 50207 epoch: 307/1000
+fps step: 59492 fps step and policy inference: 57308 fps total: 50202 epoch: 308/1000
+fps step: 59638 fps step and policy inference: 57389 fps total: 50471 epoch: 309/1000
+fps step: 58655 fps step and policy inference: 56554 fps total: 49501 epoch: 310/1000
+fps step: 59787 fps step and policy inference: 57604 fps total: 50575 epoch: 311/1000
+fps step: 60149 fps step and policy inference: 57922 fps total: 50643 epoch: 312/1000
+fps step: 60068 fps step and policy inference: 57854 fps total: 50796 epoch: 313/1000
+fps step: 59608 fps step and policy inference: 57435 fps total: 50379 epoch: 314/1000
+fps step: 59315 fps step and policy inference: 57152 fps total: 50265 epoch: 315/1000
+fps step: 60173 fps step and policy inference: 57928 fps total: 50835 epoch: 316/1000
+fps step: 59880 fps step and policy inference: 57662 fps total: 50572 epoch: 317/1000
+fps step: 59749 fps step and policy inference: 57522 fps total: 50543 epoch: 318/1000
+fps step: 59739 fps step and policy inference: 57438 fps total: 50368 epoch: 319/1000
+fps step: 60596 fps step and policy inference: 58350 fps total: 51138 epoch: 320/1000
+fps step: 60058 fps step and policy inference: 57823 fps total: 50643 epoch: 321/1000
+fps step: 60243 fps step and policy inference: 57966 fps total: 50913 epoch: 322/1000
+fps step: 60555 fps step and policy inference: 58275 fps total: 50974 epoch: 323/1000
+saving next best rewards:  [9569.647]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59823 fps step and policy inference: 57654 fps total: 50583 epoch: 324/1000
+saving next best rewards:  [9599.391]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 60319 fps step and policy inference: 58175 fps total: 50936 epoch: 325/1000
+saving next best rewards:  [9829.591]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 60619 fps step and policy inference: 58375 fps total: 51272 epoch: 326/1000
+saving next best rewards:  [10249.595]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59547 fps step and policy inference: 57370 fps total: 50405 epoch: 327/1000
+saving next best rewards:  [10263.35]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 60433 fps step and policy inference: 58151 fps total: 51114 epoch: 328/1000
+fps step: 59549 fps step and policy inference: 57366 fps total: 50456 epoch: 329/1000
+saving next best rewards:  [10378.023]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59688 fps step and policy inference: 57461 fps total: 50615 epoch: 330/1000
+saving next best rewards:  [10649.929]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59826 fps step and policy inference: 57678 fps total: 50818 epoch: 331/1000
+saving next best rewards:  [10751.419]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59711 fps step and policy inference: 57520 fps total: 50680 epoch: 332/1000
+saving next best rewards:  [10823.955]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59219 fps step and policy inference: 57052 fps total: 50183 epoch: 333/1000
+saving next best rewards:  [11097.913]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59056 fps step and policy inference: 56860 fps total: 49922 epoch: 334/1000
+saving next best rewards:  [12031.375]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59276 fps step and policy inference: 57067 fps total: 50117 epoch: 335/1000
+saving next best rewards:  [12560.394]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58882 fps step and policy inference: 56768 fps total: 50059 epoch: 336/1000
+saving next best rewards:  [12836.196]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58870 fps step and policy inference: 56739 fps total: 49734 epoch: 337/1000
+saving next best rewards:  [13290.339]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59407 fps step and policy inference: 57224 fps total: 50324 epoch: 338/1000
+saving next best rewards:  [13614.547]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59569 fps step and policy inference: 57442 fps total: 50516 epoch: 339/1000
+saving next best rewards:  [13829.893]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59384 fps step and policy inference: 57117 fps total: 50156 epoch: 340/1000
+fps step: 59713 fps step and policy inference: 57505 fps total: 50566 epoch: 341/1000
+saving next best rewards:  [14652.341]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58413 fps step and policy inference: 56275 fps total: 49556 epoch: 342/1000
+saving next best rewards:  [14767.375]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59402 fps step and policy inference: 57236 fps total: 50263 epoch: 343/1000
+saving next best rewards:  [15127.12]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59458 fps step and policy inference: 57283 fps total: 50177 epoch: 344/1000
+fps step: 58387 fps step and policy inference: 56215 fps total: 49449 epoch: 345/1000
+saving next best rewards:  [15316.234]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59252 fps step and policy inference: 57095 fps total: 50078 epoch: 346/1000
+fps step: 59386 fps step and policy inference: 57162 fps total: 50183 epoch: 347/1000
+saving next best rewards:  [15610.293]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59215 fps step and policy inference: 57013 fps total: 50105 epoch: 348/1000
+fps step: 59814 fps step and policy inference: 57584 fps total: 50591 epoch: 349/1000
+fps step: 59111 fps step and policy inference: 56899 fps total: 49939 epoch: 350/1000
+=> saving checkpoint 'runs/Crazyflie/nn/last_Crazyflie_ep_350_rew_14970.429.pth'
+fps step: 59130 fps step and policy inference: 56987 fps total: 50064 epoch: 351/1000
+fps step: 59732 fps step and policy inference: 57498 fps total: 50309 epoch: 352/1000
+saving next best rewards:  [15775.849]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58460 fps step and policy inference: 56341 fps total: 49752 epoch: 353/1000
+saving next best rewards:  [15936.526]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 60019 fps step and policy inference: 57782 fps total: 50651 epoch: 354/1000
+saving next best rewards:  [16069.73]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59699 fps step and policy inference: 57460 fps total: 50221 epoch: 355/1000
+saving next best rewards:  [16177.622]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59890 fps step and policy inference: 57696 fps total: 50786 epoch: 356/1000
+saving next best rewards:  [16438.139]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59852 fps step and policy inference: 57641 fps total: 50642 epoch: 357/1000
+saving next best rewards:  [16581.227]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 60250 fps step and policy inference: 58031 fps total: 50923 epoch: 358/1000
+saving next best rewards:  [17006.67]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59587 fps step and policy inference: 57394 fps total: 50318 epoch: 359/1000
+saving next best rewards:  [17196.61]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59388 fps step and policy inference: 57167 fps total: 50157 epoch: 360/1000
+saving next best rewards:  [17463.822]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59537 fps step and policy inference: 57328 fps total: 50402 epoch: 361/1000
+saving next best rewards:  [17627.643]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59947 fps step and policy inference: 57723 fps total: 50673 epoch: 362/1000
+saving next best rewards:  [17717.59]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59962 fps step and policy inference: 57733 fps total: 50844 epoch: 363/1000
+saving next best rewards:  [18404.967]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 60133 fps step and policy inference: 57940 fps total: 50881 epoch: 364/1000
+saving next best rewards:  [18678.777]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 54672 fps step and policy inference: 52623 fps total: 46721 epoch: 365/1000
+saving next best rewards:  [18788.545]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 57391 fps step and policy inference: 55237 fps total: 48664 epoch: 366/1000
+fps step: 60775 fps step and policy inference: 58414 fps total: 51453 epoch: 367/1000
+saving next best rewards:  [19301.97]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58537 fps step and policy inference: 56430 fps total: 49762 epoch: 368/1000
+fps step: 60710 fps step and policy inference: 58470 fps total: 51232 epoch: 369/1000
+saving next best rewards:  [19416.438]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 57958 fps step and policy inference: 55868 fps total: 48942 epoch: 370/1000
+saving next best rewards:  [19808.594]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59608 fps step and policy inference: 57420 fps total: 50360 epoch: 371/1000
+saving next best rewards:  [20366.309]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59979 fps step and policy inference: 57779 fps total: 50571 epoch: 372/1000
+saving next best rewards:  [20633.268]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59623 fps step and policy inference: 57424 fps total: 50536 epoch: 373/1000
+saving next best rewards:  [21221.254]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 60727 fps step and policy inference: 58528 fps total: 51193 epoch: 374/1000
+saving next best rewards:  [21396.459]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 60811 fps step and policy inference: 58549 fps total: 51257 epoch: 375/1000
+saving next best rewards:  [21746.1]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58980 fps step and policy inference: 56724 fps total: 49875 epoch: 376/1000
+saving next best rewards:  [22852.77]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59407 fps step and policy inference: 57219 fps total: 50344 epoch: 377/1000
+saving next best rewards:  [23831.205]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59621 fps step and policy inference: 57442 fps total: 50411 epoch: 378/1000
+saving next best rewards:  [24852.379]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59748 fps step and policy inference: 57492 fps total: 50482 epoch: 379/1000
+saving next best rewards:  [25310.764]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59644 fps step and policy inference: 57489 fps total: 50328 epoch: 380/1000
+saving next best rewards:  [25973.893]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 60495 fps step and policy inference: 58256 fps total: 51139 epoch: 381/1000
+saving next best rewards:  [26254.598]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59758 fps step and policy inference: 57547 fps total: 50455 epoch: 382/1000
+saving next best rewards:  [26766.867]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59886 fps step and policy inference: 57750 fps total: 50804 epoch: 383/1000
+fps step: 59997 fps step and policy inference: 57798 fps total: 50696 epoch: 384/1000
+fps step: 61070 fps step and policy inference: 58773 fps total: 51297 epoch: 385/1000
+saving next best rewards:  [27059.607]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59968 fps step and policy inference: 57773 fps total: 50615 epoch: 386/1000
+saving next best rewards:  [27681.086]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 60010 fps step and policy inference: 57793 fps total: 50626 epoch: 387/1000
+saving next best rewards:  [28706.215]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59276 fps step and policy inference: 57145 fps total: 50184 epoch: 388/1000
+saving next best rewards:  [29494.215]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59671 fps step and policy inference: 57486 fps total: 50363 epoch: 389/1000
+saving next best rewards:  [30019.795]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58976 fps step and policy inference: 56830 fps total: 49948 epoch: 390/1000
+saving next best rewards:  [31113.576]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59902 fps step and policy inference: 57703 fps total: 50607 epoch: 391/1000
+saving next best rewards:  [31754.098]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59006 fps step and policy inference: 56862 fps total: 49887 epoch: 392/1000
+saving next best rewards:  [32319.303]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59511 fps step and policy inference: 57358 fps total: 50281 epoch: 393/1000
+fps step: 59752 fps step and policy inference: 57548 fps total: 50603 epoch: 394/1000
+fps step: 59965 fps step and policy inference: 57726 fps total: 50679 epoch: 395/1000
+saving next best rewards:  [32946.344]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59363 fps step and policy inference: 57179 fps total: 50113 epoch: 396/1000
+saving next best rewards:  [33527.367]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59401 fps step and policy inference: 57185 fps total: 50161 epoch: 397/1000
+saving next best rewards:  [33807.28]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 60054 fps step and policy inference: 57904 fps total: 50937 epoch: 398/1000
+saving next best rewards:  [34871.668]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59826 fps step and policy inference: 57646 fps total: 50579 epoch: 399/1000
+fps step: 60622 fps step and policy inference: 58345 fps total: 51175 epoch: 400/1000
+=> saving checkpoint 'runs/Crazyflie/nn/last_Crazyflie_ep_400_rew_33777.07.pth'
+fps step: 59576 fps step and policy inference: 57397 fps total: 50124 epoch: 401/1000
+fps step: 59297 fps step and policy inference: 57142 fps total: 50174 epoch: 402/1000
+fps step: 57153 fps step and policy inference: 55077 fps total: 48481 epoch: 403/1000
+fps step: 54889 fps step and policy inference: 52900 fps total: 46774 epoch: 404/1000
+fps step: 59808 fps step and policy inference: 57518 fps total: 50571 epoch: 405/1000
+fps step: 59348 fps step and policy inference: 57083 fps total: 50083 epoch: 406/1000
+fps step: 59088 fps step and policy inference: 56941 fps total: 50150 epoch: 407/1000
+saving next best rewards:  [35060.71]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58784 fps step and policy inference: 56646 fps total: 49907 epoch: 408/1000
+fps step: 58480 fps step and policy inference: 56407 fps total: 49523 epoch: 409/1000
+fps step: 58522 fps step and policy inference: 56403 fps total: 49428 epoch: 410/1000
+fps step: 59290 fps step and policy inference: 57032 fps total: 50062 epoch: 411/1000
+saving next best rewards:  [35543.69]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59822 fps step and policy inference: 57657 fps total: 50420 epoch: 412/1000
+saving next best rewards:  [36280.684]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59161 fps step and policy inference: 57048 fps total: 49835 epoch: 413/1000
+fps step: 59128 fps step and policy inference: 57016 fps total: 49939 epoch: 414/1000
+saving next best rewards:  [36468.094]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59824 fps step and policy inference: 57650 fps total: 50448 epoch: 415/1000
+fps step: 56604 fps step and policy inference: 54511 fps total: 48029 epoch: 416/1000
+fps step: 57989 fps step and policy inference: 55850 fps total: 49216 epoch: 417/1000
+fps step: 60400 fps step and policy inference: 58175 fps total: 50938 epoch: 418/1000
+fps step: 60404 fps step and policy inference: 58208 fps total: 51018 epoch: 419/1000
+fps step: 59436 fps step and policy inference: 57229 fps total: 50349 epoch: 420/1000
+fps step: 59885 fps step and policy inference: 57630 fps total: 50514 epoch: 421/1000
+saving next best rewards:  [36841.902]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59697 fps step and policy inference: 57514 fps total: 50730 epoch: 422/1000
+saving next best rewards:  [37741.223]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59723 fps step and policy inference: 57554 fps total: 50651 epoch: 423/1000
+saving next best rewards:  [38256.79]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59361 fps step and policy inference: 57206 fps total: 50318 epoch: 424/1000
+saving next best rewards:  [38897.953]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 60174 fps step and policy inference: 57920 fps total: 50809 epoch: 425/1000
+saving next best rewards:  [39333.14]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 60558 fps step and policy inference: 58314 fps total: 51155 epoch: 426/1000
+fps step: 57754 fps step and policy inference: 55688 fps total: 48947 epoch: 427/1000
+fps step: 55326 fps step and policy inference: 53334 fps total: 47077 epoch: 428/1000
+fps step: 59700 fps step and policy inference: 57533 fps total: 50424 epoch: 429/1000
+fps step: 59964 fps step and policy inference: 57763 fps total: 50789 epoch: 430/1000
+fps step: 59480 fps step and policy inference: 57314 fps total: 50330 epoch: 431/1000
+fps step: 59426 fps step and policy inference: 57275 fps total: 50358 epoch: 432/1000
+saving next best rewards:  [40840.16]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59180 fps step and policy inference: 57060 fps total: 50152 epoch: 433/1000
+saving next best rewards:  [41707.48]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59684 fps step and policy inference: 57528 fps total: 50360 epoch: 434/1000
+fps step: 60187 fps step and policy inference: 57953 fps total: 50821 epoch: 435/1000
+saving next best rewards:  [42829.06]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59103 fps step and policy inference: 57025 fps total: 49766 epoch: 436/1000
+saving next best rewards:  [43358.18]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58606 fps step and policy inference: 56486 fps total: 49579 epoch: 437/1000
+saving next best rewards:  [44403.9]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59864 fps step and policy inference: 57632 fps total: 50560 epoch: 438/1000
+saving next best rewards:  [44438.848]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58677 fps step and policy inference: 56566 fps total: 49703 epoch: 439/1000
+saving next best rewards:  [45784.074]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59782 fps step and policy inference: 57588 fps total: 50539 epoch: 440/1000
+fps step: 59887 fps step and policy inference: 57736 fps total: 50694 epoch: 441/1000
+fps step: 60006 fps step and policy inference: 57826 fps total: 50888 epoch: 442/1000
+saving next best rewards:  [46308.875]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59710 fps step and policy inference: 57562 fps total: 50401 epoch: 443/1000
+saving next best rewards:  [46747.664]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59996 fps step and policy inference: 57851 fps total: 50781 epoch: 444/1000
+saving next best rewards:  [47010.93]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 60068 fps step and policy inference: 57910 fps total: 50756 epoch: 445/1000
+saving next best rewards:  [47631.15]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59468 fps step and policy inference: 57297 fps total: 50238 epoch: 446/1000
+saving next best rewards:  [48157.72]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59543 fps step and policy inference: 57381 fps total: 50419 epoch: 447/1000
+saving next best rewards:  [48713.254]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59248 fps step and policy inference: 57124 fps total: 50172 epoch: 448/1000
+fps step: 59983 fps step and policy inference: 57744 fps total: 50740 epoch: 449/1000
+fps step: 59949 fps step and policy inference: 57761 fps total: 50681 epoch: 450/1000
+=> saving checkpoint 'runs/Crazyflie/nn/last_Crazyflie_ep_450_rew_47442.074.pth'
+fps step: 60918 fps step and policy inference: 58667 fps total: 51379 epoch: 451/1000
+fps step: 59200 fps step and policy inference: 57062 fps total: 49923 epoch: 452/1000
+fps step: 59985 fps step and policy inference: 57762 fps total: 50669 epoch: 453/1000
+fps step: 59670 fps step and policy inference: 57432 fps total: 50129 epoch: 454/1000
+fps step: 59135 fps step and policy inference: 56952 fps total: 50045 epoch: 455/1000
+saving next best rewards:  [49215.84]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59631 fps step and policy inference: 57464 fps total: 50239 epoch: 456/1000
+fps step: 58617 fps step and policy inference: 56488 fps total: 49564 epoch: 457/1000
+fps step: 58594 fps step and policy inference: 56470 fps total: 49542 epoch: 458/1000
+fps step: 58000 fps step and policy inference: 55864 fps total: 49187 epoch: 459/1000
+fps step: 57865 fps step and policy inference: 55762 fps total: 49030 epoch: 460/1000
+fps step: 58114 fps step and policy inference: 55993 fps total: 49281 epoch: 461/1000
+fps step: 58602 fps step and policy inference: 56494 fps total: 49643 epoch: 462/1000
+fps step: 59219 fps step and policy inference: 57119 fps total: 50107 epoch: 463/1000
+fps step: 59316 fps step and policy inference: 57073 fps total: 50068 epoch: 464/1000
+fps step: 58176 fps step and policy inference: 56093 fps total: 49341 epoch: 465/1000
+fps step: 59111 fps step and policy inference: 56957 fps total: 49969 epoch: 466/1000
+fps step: 58553 fps step and policy inference: 56362 fps total: 49622 epoch: 467/1000
+fps step: 58483 fps step and policy inference: 56338 fps total: 49501 epoch: 468/1000
+fps step: 58704 fps step and policy inference: 56592 fps total: 49724 epoch: 469/1000
+fps step: 59197 fps step and policy inference: 57028 fps total: 49984 epoch: 470/1000
+fps step: 58252 fps step and policy inference: 56133 fps total: 49287 epoch: 471/1000
+fps step: 58264 fps step and policy inference: 56157 fps total: 49188 epoch: 472/1000
+fps step: 59360 fps step and policy inference: 57196 fps total: 50157 epoch: 473/1000
+saving next best rewards:  [49482.617]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59504 fps step and policy inference: 57375 fps total: 50276 epoch: 474/1000
+fps step: 59279 fps step and policy inference: 57124 fps total: 50141 epoch: 475/1000
+saving next best rewards:  [49694.05]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59435 fps step and policy inference: 57264 fps total: 50258 epoch: 476/1000
+saving next best rewards:  [49754.97]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59242 fps step and policy inference: 57128 fps total: 50048 epoch: 477/1000
+fps step: 59348 fps step and policy inference: 57118 fps total: 50140 epoch: 478/1000
+fps step: 59371 fps step and policy inference: 57226 fps total: 50097 epoch: 479/1000
+fps step: 59213 fps step and policy inference: 57016 fps total: 50061 epoch: 480/1000
+fps step: 59656 fps step and policy inference: 57469 fps total: 50467 epoch: 481/1000
+fps step: 59911 fps step and policy inference: 57711 fps total: 50563 epoch: 482/1000
+fps step: 59649 fps step and policy inference: 57317 fps total: 50335 epoch: 483/1000
+fps step: 58995 fps step and policy inference: 56823 fps total: 49900 epoch: 484/1000
+fps step: 59984 fps step and policy inference: 57774 fps total: 50666 epoch: 485/1000
+fps step: 59207 fps step and policy inference: 57036 fps total: 50020 epoch: 486/1000
+fps step: 59305 fps step and policy inference: 57161 fps total: 50144 epoch: 487/1000
+fps step: 59912 fps step and policy inference: 57729 fps total: 50575 epoch: 488/1000
+fps step: 59411 fps step and policy inference: 57264 fps total: 50151 epoch: 489/1000
+fps step: 59683 fps step and policy inference: 57507 fps total: 50410 epoch: 490/1000
+fps step: 59475 fps step and policy inference: 57280 fps total: 50184 epoch: 491/1000
+fps step: 59562 fps step and policy inference: 57415 fps total: 50389 epoch: 492/1000
+fps step: 59729 fps step and policy inference: 57506 fps total: 50348 epoch: 493/1000
+fps step: 59829 fps step and policy inference: 57630 fps total: 50569 epoch: 494/1000
+fps step: 59680 fps step and policy inference: 57516 fps total: 50287 epoch: 495/1000
+fps step: 58962 fps step and policy inference: 56783 fps total: 49745 epoch: 496/1000
+fps step: 59580 fps step and policy inference: 57332 fps total: 50384 epoch: 497/1000
+fps step: 58464 fps step and policy inference: 56379 fps total: 49378 epoch: 498/1000
+fps step: 57926 fps step and policy inference: 55888 fps total: 49017 epoch: 499/1000
+fps step: 59752 fps step and policy inference: 57563 fps total: 50429 epoch: 500/1000
+=> saving checkpoint 'runs/Crazyflie/nn/last_Crazyflie_ep_500_rew_42178.15.pth'
+fps step: 60731 fps step and policy inference: 58515 fps total: 50952 epoch: 501/1000
+fps step: 60505 fps step and policy inference: 58294 fps total: 50899 epoch: 502/1000
+fps step: 57124 fps step and policy inference: 55058 fps total: 48465 epoch: 503/1000
+fps step: 59749 fps step and policy inference: 57528 fps total: 50370 epoch: 504/1000
+fps step: 60273 fps step and policy inference: 58089 fps total: 50836 epoch: 505/1000
+fps step: 59969 fps step and policy inference: 57804 fps total: 50533 epoch: 506/1000
+fps step: 59363 fps step and policy inference: 57196 fps total: 50050 epoch: 507/1000
+fps step: 59140 fps step and policy inference: 56940 fps total: 49842 epoch: 508/1000
+fps step: 56477 fps step and policy inference: 54409 fps total: 48104 epoch: 509/1000
+fps step: 58765 fps step and policy inference: 56614 fps total: 49682 epoch: 510/1000
+fps step: 58347 fps step and policy inference: 56261 fps total: 49353 epoch: 511/1000
+fps step: 57805 fps step and policy inference: 55666 fps total: 48951 epoch: 512/1000
+fps step: 58464 fps step and policy inference: 56362 fps total: 49463 epoch: 513/1000
+fps step: 57350 fps step and policy inference: 55338 fps total: 48643 epoch: 514/1000
+fps step: 57520 fps step and policy inference: 55408 fps total: 48711 epoch: 515/1000
+fps step: 57532 fps step and policy inference: 55401 fps total: 48622 epoch: 516/1000
+fps step: 58673 fps step and policy inference: 56503 fps total: 49649 epoch: 517/1000
+fps step: 58397 fps step and policy inference: 56252 fps total: 49279 epoch: 518/1000
+fps step: 57980 fps step and policy inference: 55871 fps total: 49221 epoch: 519/1000
+fps step: 58447 fps step and policy inference: 56286 fps total: 49448 epoch: 520/1000
+fps step: 58607 fps step and policy inference: 56494 fps total: 49540 epoch: 521/1000
+fps step: 58171 fps step and policy inference: 56050 fps total: 49163 epoch: 522/1000
+fps step: 57776 fps step and policy inference: 55667 fps total: 48965 epoch: 523/1000
+fps step: 58109 fps step and policy inference: 56019 fps total: 49356 epoch: 524/1000
+fps step: 57863 fps step and policy inference: 55770 fps total: 49029 epoch: 525/1000
+fps step: 58182 fps step and policy inference: 56096 fps total: 49217 epoch: 526/1000
+fps step: 58300 fps step and policy inference: 56115 fps total: 49363 epoch: 527/1000
+fps step: 58407 fps step and policy inference: 56266 fps total: 49464 epoch: 528/1000
+fps step: 57774 fps step and policy inference: 55665 fps total: 48894 epoch: 529/1000
+fps step: 58094 fps step and policy inference: 55982 fps total: 49240 epoch: 530/1000
+fps step: 58588 fps step and policy inference: 56422 fps total: 49709 epoch: 531/1000
+fps step: 58089 fps step and policy inference: 55967 fps total: 49121 epoch: 532/1000
+fps step: 57838 fps step and policy inference: 55717 fps total: 48951 epoch: 533/1000
+fps step: 58620 fps step and policy inference: 56435 fps total: 49550 epoch: 534/1000
+fps step: 58359 fps step and policy inference: 56204 fps total: 49302 epoch: 535/1000
+fps step: 54836 fps step and policy inference: 52739 fps total: 46578 epoch: 536/1000
+fps step: 55308 fps step and policy inference: 53348 fps total: 47045 epoch: 537/1000
+fps step: 56334 fps step and policy inference: 54273 fps total: 47956 epoch: 538/1000
+fps step: 56939 fps step and policy inference: 54782 fps total: 48330 epoch: 539/1000
+fps step: 57248 fps step and policy inference: 55126 fps total: 48517 epoch: 540/1000
+fps step: 58099 fps step and policy inference: 55959 fps total: 49120 epoch: 541/1000
+fps step: 57686 fps step and policy inference: 55586 fps total: 48847 epoch: 542/1000
+fps step: 57236 fps step and policy inference: 55160 fps total: 48454 epoch: 543/1000
+fps step: 57295 fps step and policy inference: 55176 fps total: 48461 epoch: 544/1000
+fps step: 57662 fps step and policy inference: 55578 fps total: 48846 epoch: 545/1000
+fps step: 57343 fps step and policy inference: 55207 fps total: 48484 epoch: 546/1000
+fps step: 57553 fps step and policy inference: 55452 fps total: 48721 epoch: 547/1000
+fps step: 57093 fps step and policy inference: 54923 fps total: 48323 epoch: 548/1000
+fps step: 57993 fps step and policy inference: 55905 fps total: 49133 epoch: 549/1000
+fps step: 58574 fps step and policy inference: 56346 fps total: 49613 epoch: 550/1000
+=> saving checkpoint 'runs/Crazyflie/nn/last_Crazyflie_ep_550_rew_28762.857.pth'
+fps step: 58305 fps step and policy inference: 56211 fps total: 49402 epoch: 551/1000
+fps step: 58459 fps step and policy inference: 56381 fps total: 49582 epoch: 552/1000
+fps step: 54072 fps step and policy inference: 52051 fps total: 46212 epoch: 553/1000
+fps step: 58327 fps step and policy inference: 56184 fps total: 49462 epoch: 554/1000
+fps step: 58980 fps step and policy inference: 56770 fps total: 50000 epoch: 555/1000
+fps step: 58146 fps step and policy inference: 56045 fps total: 49340 epoch: 556/1000
+fps step: 58682 fps step and policy inference: 56564 fps total: 49824 epoch: 557/1000
+fps step: 58726 fps step and policy inference: 56536 fps total: 49606 epoch: 558/1000
+fps step: 58053 fps step and policy inference: 55924 fps total: 49110 epoch: 559/1000
+fps step: 58974 fps step and policy inference: 56808 fps total: 49956 epoch: 560/1000
+saving next best rewards:  [52327.582]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58864 fps step and policy inference: 56718 fps total: 49764 epoch: 561/1000
+saving next best rewards:  [55927.945]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 57983 fps step and policy inference: 55893 fps total: 49273 epoch: 562/1000
+fps step: 58129 fps step and policy inference: 56029 fps total: 49299 epoch: 563/1000
+saving next best rewards:  [56823.61]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58486 fps step and policy inference: 56397 fps total: 49559 epoch: 564/1000
+saving next best rewards:  [61822.66]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58370 fps step and policy inference: 56255 fps total: 49457 epoch: 565/1000
+saving next best rewards:  [65947.086]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58133 fps step and policy inference: 56050 fps total: 49484 epoch: 566/1000
+saving next best rewards:  [67760.86]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 56947 fps step and policy inference: 54948 fps total: 48547 epoch: 567/1000
+fps step: 56478 fps step and policy inference: 54448 fps total: 47900 epoch: 568/1000
+fps step: 58289 fps step and policy inference: 56173 fps total: 49303 epoch: 569/1000
+saving next best rewards:  [71409.82]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 57872 fps step and policy inference: 55793 fps total: 49061 epoch: 570/1000
+saving next best rewards:  [71758.3]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58305 fps step and policy inference: 56197 fps total: 49442 epoch: 571/1000
+fps step: 58673 fps step and policy inference: 56561 fps total: 49683 epoch: 572/1000
+fps step: 58162 fps step and policy inference: 56069 fps total: 49429 epoch: 573/1000
+fps step: 58728 fps step and policy inference: 56605 fps total: 49728 epoch: 574/1000
+fps step: 59086 fps step and policy inference: 56879 fps total: 49900 epoch: 575/1000
+saving next best rewards:  [72494.16]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58373 fps step and policy inference: 56247 fps total: 49439 epoch: 576/1000
+fps step: 58674 fps step and policy inference: 56514 fps total: 49718 epoch: 577/1000
+fps step: 58677 fps step and policy inference: 56532 fps total: 49573 epoch: 578/1000
+fps step: 58875 fps step and policy inference: 56730 fps total: 49793 epoch: 579/1000
+fps step: 59911 fps step and policy inference: 57675 fps total: 50588 epoch: 580/1000
+fps step: 58745 fps step and policy inference: 56625 fps total: 49646 epoch: 581/1000
+fps step: 58903 fps step and policy inference: 56776 fps total: 50038 epoch: 582/1000
+fps step: 58896 fps step and policy inference: 56792 fps total: 49934 epoch: 583/1000
+fps step: 59615 fps step and policy inference: 57451 fps total: 50310 epoch: 584/1000
+fps step: 59887 fps step and policy inference: 57550 fps total: 50571 epoch: 585/1000
+fps step: 58944 fps step and policy inference: 56799 fps total: 49964 epoch: 586/1000
+fps step: 59500 fps step and policy inference: 57294 fps total: 50364 epoch: 587/1000
+fps step: 59342 fps step and policy inference: 57133 fps total: 49978 epoch: 588/1000
+fps step: 58586 fps step and policy inference: 56447 fps total: 49619 epoch: 589/1000
+fps step: 60172 fps step and policy inference: 57986 fps total: 50870 epoch: 590/1000
+saving next best rewards:  [73106.74]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58413 fps step and policy inference: 56326 fps total: 49437 epoch: 591/1000
+fps step: 59184 fps step and policy inference: 57054 fps total: 50101 epoch: 592/1000
+fps step: 59442 fps step and policy inference: 57264 fps total: 50270 epoch: 593/1000
+fps step: 58885 fps step and policy inference: 56741 fps total: 49730 epoch: 594/1000
+fps step: 59305 fps step and policy inference: 57139 fps total: 50103 epoch: 595/1000
+fps step: 58742 fps step and policy inference: 56549 fps total: 49647 epoch: 596/1000
+saving next best rewards:  [74955.26]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58212 fps step and policy inference: 56092 fps total: 49291 epoch: 597/1000
+saving next best rewards:  [76004.79]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59154 fps step and policy inference: 57019 fps total: 49996 epoch: 598/1000
+saving next best rewards:  [77390.93]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58553 fps step and policy inference: 56457 fps total: 49603 epoch: 599/1000
+saving next best rewards:  [78292.484]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58056 fps step and policy inference: 55988 fps total: 49305 epoch: 600/1000
+saving next best rewards:  [78454.3]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59262 fps step and policy inference: 57139 fps total: 50293 epoch: 601/1000
+saving next best rewards:  [78807.48]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58835 fps step and policy inference: 56734 fps total: 49871 epoch: 602/1000
+fps step: 58639 fps step and policy inference: 56473 fps total: 49617 epoch: 603/1000
+saving next best rewards:  [79023.09]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 59127 fps step and policy inference: 56994 fps total: 50061 epoch: 604/1000
+fps step: 59248 fps step and policy inference: 57010 fps total: 49996 epoch: 605/1000
+fps step: 58764 fps step and policy inference: 56572 fps total: 49668 epoch: 606/1000
+saving next best rewards:  [79701.9]
+=> saving checkpoint 'runs/Crazyflie/nn/Crazyflie.pth'
+fps step: 58744 fps step and policy inference: 56570 fps total: 49651 epoch: 607/1000
+fps step: 58288 fps step and policy inference: 56168 fps total: 49293 epoch: 608/1000
+fps step: 57747 fps step and policy inference: 55657 fps total: 49108 epoch: 609/1000
+fps step: 58426 fps step and policy inference: 56268 fps total: 49479 epoch: 610/1000
+fps step: 54553 fps step and policy inference: 52527 fps total: 46437 epoch: 611/1000
+fps step: 57131 fps step and policy inference: 55036 fps total: 48491 epoch: 612/1000
+fps step: 57919 fps step and policy inference: 55802 fps total: 48997 epoch: 613/1000
+fps step: 57246 fps step and policy inference: 55106 fps total: 48359 epoch: 614/1000
+fps step: 58380 fps step and policy inference: 56226 fps total: 49437 epoch: 615/1000
+fps step: 58257 fps step and policy inference: 56082 fps total: 49285 epoch: 616/1000
+fps step: 57946 fps step and policy inference: 55801 fps total: 48969 epoch: 617/1000
+fps step: 57813 fps step and policy inference: 55662 fps total: 48872 epoch: 618/1000
+fps step: 58073 fps step and policy inference: 55938 fps total: 49313 epoch: 619/1000
+fps step: 58407 fps step and policy inference: 56270 fps total: 49576 epoch: 620/1000
+fps step: 59004 fps step and policy inference: 56786 fps total: 49714 epoch: 621/1000
+fps step: 58436 fps step and policy inference: 56296 fps total: 49420 epoch: 622/1000
+fps step: 58990 fps step and policy inference: 56809 fps total: 50075 epoch: 623/1000
+fps step: 58734 fps step and policy inference: 56541 fps total: 49722 epoch: 624/1000
+fps step: 59435 fps step and policy inference: 57237 fps total: 50165 epoch: 625/1000
+fps step: 58886 fps step and policy inference: 56744 fps total: 49569 epoch: 626/1000
+fps step: 58303 fps step and policy inference: 56150 fps total: 49209 epoch: 627/1000
+fps step: 58999 fps step and policy inference: 56769 fps total: 49745 epoch: 628/1000
+fps step: 58570 fps step and policy inference: 56408 fps total: 49434 epoch: 629/1000
+fps step: 58343 fps step and policy inference: 56214 fps total: 49264 epoch: 630/1000
+fps step: 58855 fps step and policy inference: 56691 fps total: 49847 epoch: 631/1000
+fps step: 58492 fps step and policy inference: 56347 fps total: 49550 epoch: 632/1000
+fps step: 58586 fps step and policy inference: 56424 fps total: 49469 epoch: 633/1000
+fps step: 59085 fps step and policy inference: 56917 fps total: 50241 epoch: 634/1000
+fps step: 58945 fps step and policy inference: 56794 fps total: 50073 epoch: 635/1000
+fps step: 58686 fps step and policy inference: 56543 fps total: 49588 epoch: 636/1000
+fps step: 59131 fps step and policy inference: 57001 fps total: 49898 epoch: 637/1000
+fps step: 58862 fps step and policy inference: 56737 fps total: 49672 epoch: 638/1000
+fps step: 59016 fps step and policy inference: 56834 fps total: 49968 epoch: 639/1000
+fps step: 58202 fps step and policy inference: 56088 fps total: 49420 epoch: 640/1000
+fps step: 58163 fps step and policy inference: 55957 fps total: 49075 epoch: 641/1000
+fps step: 58338 fps step and policy inference: 56172 fps total: 49452 epoch: 642/1000
+fps step: 58861 fps step and policy inference: 56694 fps total: 49654 epoch: 643/1000
+fps step: 58265 fps step and policy inference: 56134 fps total: 49298 epoch: 644/1000
+fps step: 58521 fps step and policy inference: 56254 fps total: 49454 epoch: 645/1000
+fps step: 58230 fps step and policy inference: 56106 fps total: 49332 epoch: 646/1000
+fps step: 58019 fps step and policy inference: 55939 fps total: 49224 epoch: 647/1000
+fps step: 57728 fps step and policy inference: 55658 fps total: 49035 epoch: 648/1000
+fps step: 58186 fps step and policy inference: 56116 fps total: 49383 epoch: 649/1000
+fps step: 57924 fps step and policy inference: 55811 fps total: 49208 epoch: 650/1000
+=> saving checkpoint 'runs/Crazyflie/nn/last_Crazyflie_ep_650_rew_57690.84.pth'
+fps step: 56345 fps step and policy inference: 54401 fps total: 47985 epoch: 651/1000
+fps step: 58139 fps step and policy inference: 56038 fps total: 49181 epoch: 652/1000
+fps step: 58798 fps step and policy inference: 56666 fps total: 49733 epoch: 653/1000
+fps step: 58918 fps step and policy inference: 56771 fps total: 49815 epoch: 654/1000
+fps step: 55790 fps step and policy inference: 53808 fps total: 47418 epoch: 655/1000
+fps step: 58161 fps step and policy inference: 56075 fps total: 49412 epoch: 656/1000
+fps step: 58452 fps step and policy inference: 56321 fps total: 49509 epoch: 657/1000
+fps step: 58256 fps step and policy inference: 56200 fps total: 49317 epoch: 658/1000
+fps step: 58523 fps step and policy inference: 56342 fps total: 49508 epoch: 659/1000
+fps step: 58798 fps step and policy inference: 56695 fps total: 49881 epoch: 660/1000
+fps step: 59319 fps step and policy inference: 57171 fps total: 50390 epoch: 661/1000
+fps step: 58742 fps step and policy inference: 56514 fps total: 49612 epoch: 662/1000
+fps step: 59805 fps step and policy inference: 57574 fps total: 50527 epoch: 663/1000
+fps step: 58695 fps step and policy inference: 56526 fps total: 49544 epoch: 664/1000
+fps step: 59020 fps step and policy inference: 56883 fps total: 49984 epoch: 665/1000
+fps step: 59836 fps step and policy inference: 57635 fps total: 50634 epoch: 666/1000
+fps step: 58685 fps step and policy inference: 56586 fps total: 49682 epoch: 667/1000
+fps step: 59073 fps step and policy inference: 56942 fps total: 50019 epoch: 668/1000
+fps step: 56495 fps step and policy inference: 54331 fps total: 47726 epoch: 669/1000
+fps step: 57709 fps step and policy inference: 55659 fps total: 48923 epoch: 670/1000
+fps step: 57437 fps step and policy inference: 55402 fps total: 48667 epoch: 671/1000
+fps step: 57774 fps step and policy inference: 55687 fps total: 49033 epoch: 672/1000
+fps step: 57982 fps step and policy inference: 55799 fps total: 48997 epoch: 673/1000
+fps step: 57292 fps step and policy inference: 55235 fps total: 48554 epoch: 674/1000
+fps step: 56987 fps step and policy inference: 54986 fps total: 48378 epoch: 675/1000
+fps step: 57681 fps step and policy inference: 55577 fps total: 48912 epoch: 676/1000
+fps step: 58013 fps step and policy inference: 55899 fps total: 49124 epoch: 677/1000
+fps step: 57381 fps step and policy inference: 55276 fps total: 48520 epoch: 678/1000
+fps step: 56931 fps step and policy inference: 54905 fps total: 48365 epoch: 679/1000
+fps step: 57604 fps step and policy inference: 55505 fps total: 48795 epoch: 680/1000
+fps step: 58134 fps step and policy inference: 56003 fps total: 49266 epoch: 681/1000
+fps step: 57273 fps step and policy inference: 55179 fps total: 48479 epoch: 682/1000
+fps step: 57781 fps step and policy inference: 55647 fps total: 48842 epoch: 683/1000
+fps step: 56140 fps step and policy inference: 54132 fps total: 47692 epoch: 684/1000
+fps step: 57616 fps step and policy inference: 55531 fps total: 48861 epoch: 685/1000
+fps step: 57699 fps step and policy inference: 55585 fps total: 48852 epoch: 686/1000
+fps step: 57153 fps step and policy inference: 54927 fps total: 48273 epoch: 687/1000
+fps step: 57538 fps step and policy inference: 55392 fps total: 48662 epoch: 688/1000
+fps step: 57801 fps step and policy inference: 55699 fps total: 48920 epoch: 689/1000
+fps step: 57729 fps step and policy inference: 55654 fps total: 49155 epoch: 690/1000
+fps step: 58280 fps step and policy inference: 56194 fps total: 49503 epoch: 691/1000
+fps step: 57221 fps step and policy inference: 55175 fps total: 48597 epoch: 692/1000
+fps step: 57263 fps step and policy inference: 55216 fps total: 48722 epoch: 693/1000
+fps step: 58222 fps step and policy inference: 56118 fps total: 49385 epoch: 694/1000
+fps step: 58202 fps step and policy inference: 56108 fps total: 49411 epoch: 695/1000
+fps step: 57978 fps step and policy inference: 55881 fps total: 49052 epoch: 696/1000
+fps step: 57999 fps step and policy inference: 55896 fps total: 49012 epoch: 697/1000
+fps step: 57463 fps step and policy inference: 55404 fps total: 48640 epoch: 698/1000
+fps step: 57519 fps step and policy inference: 55434 fps total: 48855 epoch: 699/1000
+fps step: 56846 fps step and policy inference: 54713 fps total: 48306 epoch: 700/1000
+=> saving checkpoint 'runs/Crazyflie/nn/last_Crazyflie_ep_700_rew_62864.9.pth'
+fps step: 56952 fps step and policy inference: 54922 fps total: 48330 epoch: 701/1000
+fps step: 57059 fps step and policy inference: 54994 fps total: 48491 epoch: 702/1000
+fps step: 57807 fps step and policy inference: 55693 fps total: 49001 epoch: 703/1000
+fps step: 57821 fps step and policy inference: 55703 fps total: 49040 epoch: 704/1000
+fps step: 57801 fps step and policy inference: 55711 fps total: 48895 epoch: 705/1000
+fps step: 57410 fps step and policy inference: 55326 fps total: 48654 epoch: 706/1000
+fps step: 58467 fps step and policy inference: 56293 fps total: 49461 epoch: 707/1000
+fps step: 58155 fps step and policy inference: 56084 fps total: 49340 epoch: 708/1000
+fps step: 57918 fps step and policy inference: 55814 fps total: 49175 epoch: 709/1000
+fps step: 58453 fps step and policy inference: 56288 fps total: 49454 epoch: 710/1000
+fps step: 58052 fps step and policy inference: 55970 fps total: 49102 epoch: 711/1000
+fps step: 58319 fps step and policy inference: 56199 fps total: 49299 epoch: 712/1000
+fps step: 58232 fps step and policy inference: 56098 fps total: 49248 epoch: 713/1000
+fps step: 58252 fps step and policy inference: 56108 fps total: 49444 epoch: 714/1000
+fps step: 58481 fps step and policy inference: 56347 fps total: 49704 epoch: 715/1000
+fps step: 58507 fps step and policy inference: 56383 fps total: 49565 epoch: 716/1000
+fps step: 58585 fps step and policy inference: 56428 fps total: 49536 epoch: 717/1000
+fps step: 58652 fps step and policy inference: 56502 fps total: 49721 epoch: 718/1000
+fps step: 58372 fps step and policy inference: 56264 fps total: 49372 epoch: 719/1000
+fps step: 58278 fps step and policy inference: 56169 fps total: 49514 epoch: 720/1000
+fps step: 59040 fps step and policy inference: 56870 fps total: 50212 epoch: 721/1000
+fps step: 58108 fps step and policy inference: 56015 fps total: 49171 epoch: 722/1000
+fps step: 58175 fps step and policy inference: 56061 fps total: 49346 epoch: 723/1000
+fps step: 57541 fps step and policy inference: 55478 fps total: 48958 epoch: 724/1000
+fps step: 58328 fps step and policy inference: 56229 fps total: 49432 epoch: 725/1000
+fps step: 57785 fps step and policy inference: 55705 fps total: 48955 epoch: 726/1000
+fps step: 58385 fps step and policy inference: 56252 fps total: 49517 epoch: 727/1000
+fps step: 58027 fps step and policy inference: 55949 fps total: 49008 epoch: 728/1000
+fps step: 57847 fps step and policy inference: 55689 fps total: 48938 epoch: 729/1000
+fps step: 57653 fps step and policy inference: 55558 fps total: 48741 epoch: 730/1000
+fps step: 58411 fps step and policy inference: 56258 fps total: 49444 epoch: 731/1000
+fps step: 58305 fps step and policy inference: 56186 fps total: 49329 epoch: 732/1000
+fps step: 58305 fps step and policy inference: 56224 fps total: 49328 epoch: 733/1000
+fps step: 58922 fps step and policy inference: 56758 fps total: 49866 epoch: 734/1000
+fps step: 58687 fps step and policy inference: 56541 fps total: 49739 epoch: 735/1000
+fps step: 58723 fps step and policy inference: 56582 fps total: 49740 epoch: 736/1000
+fps step: 59108 fps step and policy inference: 56926 fps total: 50017 epoch: 737/1000
+fps step: 58784 fps step and policy inference: 56630 fps total: 49680 epoch: 738/1000
+fps step: 57979 fps step and policy inference: 55890 fps total: 49085 epoch: 739/1000
+fps step: 58808 fps step and policy inference: 56661 fps total: 49971 epoch: 740/1000
+fps step: 58729 fps step and policy inference: 56587 fps total: 49566 epoch: 741/1000
+fps step: 58257 fps step and policy inference: 56181 fps total: 49403 epoch: 742/1000
+fps step: 59007 fps step and policy inference: 56852 fps total: 49936 epoch: 743/1000
+fps step: 58274 fps step and policy inference: 56222 fps total: 49352 epoch: 744/1000
+fps step: 57906 fps step and policy inference: 55848 fps total: 49108 epoch: 745/1000
+fps step: 58914 fps step and policy inference: 56787 fps total: 49864 epoch: 746/1000
+fps step: 58528 fps step and policy inference: 56344 fps total: 49370 epoch: 747/1000
+fps step: 58800 fps step and policy inference: 56655 fps total: 49724 epoch: 748/1000
+fps step: 58126 fps step and policy inference: 56032 fps total: 49499 epoch: 749/1000
+fps step: 59082 fps step and policy inference: 56894 fps total: 50113 epoch: 750/1000
+=> saving checkpoint 'runs/Crazyflie/nn/last_Crazyflie_ep_750_rew_57890.95.pth'
+fps step: 59190 fps step and policy inference: 57025 fps total: 50012 epoch: 751/1000
+fps step: 59055 fps step and policy inference: 56813 fps total: 49838 epoch: 752/1000
+fps step: 58090 fps step and policy inference: 55895 fps total: 49099 epoch: 753/1000
+fps step: 59553 fps step and policy inference: 57327 fps total: 50234 epoch: 754/1000
+fps step: 59180 fps step and policy inference: 57035 fps total: 50177 epoch: 755/1000
+fps step: 59436 fps step and policy inference: 57281 fps total: 50177 epoch: 756/1000
+fps step: 58707 fps step and policy inference: 56559 fps total: 49776 epoch: 757/1000
+fps step: 59239 fps step and policy inference: 57012 fps total: 50018 epoch: 758/1000
+fps step: 58836 fps step and policy inference: 56723 fps total: 49693 epoch: 759/1000
+fps step: 58944 fps step and policy inference: 56745 fps total: 50069 epoch: 760/1000
+fps step: 58326 fps step and policy inference: 56212 fps total: 49470 epoch: 761/1000
+fps step: 58819 fps step and policy inference: 56646 fps total: 49765 epoch: 762/1000
+fps step: 59258 fps step and policy inference: 57114 fps total: 50267 epoch: 763/1000
+fps step: 59409 fps step and policy inference: 57176 fps total: 50183 epoch: 764/1000
+fps step: 60017 fps step and policy inference: 57752 fps total: 50757 epoch: 765/1000
+fps step: 58480 fps step and policy inference: 56326 fps total: 49527 epoch: 766/1000
+fps step: 58466 fps step and policy inference: 56368 fps total: 49549 epoch: 767/1000
+fps step: 58532 fps step and policy inference: 56369 fps total: 49501 epoch: 768/1000
+fps step: 58668 fps step and policy inference: 56506 fps total: 49642 epoch: 769/1000
+fps step: 58509 fps step and policy inference: 56370 fps total: 49588 epoch: 770/1000
+fps step: 58545 fps step and policy inference: 56444 fps total: 49725 epoch: 771/1000
+fps step: 57847 fps step and policy inference: 55757 fps total: 49076 epoch: 772/1000
+fps step: 58051 fps step and policy inference: 55959 fps total: 49327 epoch: 773/1000
+fps step: 58132 fps step and policy inference: 56063 fps total: 49390 epoch: 774/1000
+fps step: 58242 fps step and policy inference: 56121 fps total: 49419 epoch: 775/1000
+fps step: 57702 fps step and policy inference: 55605 fps total: 48863 epoch: 776/1000
+fps step: 58277 fps step and policy inference: 56143 fps total: 49444 epoch: 777/1000
+fps step: 58153 fps step and policy inference: 56025 fps total: 49381 epoch: 778/1000
+fps step: 57822 fps step and policy inference: 55741 fps total: 48951 epoch: 779/1000
+fps step: 57529 fps step and policy inference: 55436 fps total: 48819 epoch: 780/1000
+fps step: 57465 fps step and policy inference: 55379 fps total: 48701 epoch: 781/1000
+fps step: 57395 fps step and policy inference: 55269 fps total: 48713 epoch: 782/1000
+fps step: 56711 fps step and policy inference: 54689 fps total: 48381 epoch: 783/1000
+fps step: 57232 fps step and policy inference: 55182 fps total: 48529 epoch: 784/1000
+fps step: 56780 fps step and policy inference: 54715 fps total: 48253 epoch: 785/1000
+fps step: 57795 fps step and policy inference: 55734 fps total: 49014 epoch: 786/1000
+fps step: 57896 fps step and policy inference: 55801 fps total: 49103 epoch: 787/1000
+fps step: 57389 fps step and policy inference: 55346 fps total: 48652 epoch: 788/1000
+fps step: 57839 fps step and policy inference: 55798 fps total: 49097 epoch: 789/1000
+fps step: 58650 fps step and policy inference: 56521 fps total: 49662 epoch: 790/1000
+fps step: 57911 fps step and policy inference: 55835 fps total: 49134 epoch: 791/1000
+fps step: 58135 fps step and policy inference: 55938 fps total: 49182 epoch: 792/1000
+fps step: 58099 fps step and policy inference: 56018 fps total: 49322 epoch: 793/1000
+fps step: 58788 fps step and policy inference: 56688 fps total: 49886 epoch: 794/1000
+fps step: 58576 fps step and policy inference: 56447 fps total: 49691 epoch: 795/1000
+fps step: 58669 fps step and policy inference: 56527 fps total: 49840 epoch: 796/1000
+fps step: 58908 fps step and policy inference: 56725 fps total: 50014 epoch: 797/1000
+fps step: 56797 fps step and policy inference: 54725 fps total: 48216 epoch: 798/1000
+fps step: 57705 fps step and policy inference: 55611 fps total: 49084 epoch: 799/1000
+fps step: 58096 fps step and policy inference: 56013 fps total: 49433 epoch: 800/1000
+=> saving checkpoint 'runs/Crazyflie/nn/last_Crazyflie_ep_800_rew_63945.29.pth'
+fps step: 59384 fps step and policy inference: 57232 fps total: 50301 epoch: 801/1000
+fps step: 58137 fps step and policy inference: 55964 fps total: 49248 epoch: 802/1000
+fps step: 58452 fps step and policy inference: 56340 fps total: 49614 epoch: 803/1000
+fps step: 58383 fps step and policy inference: 56258 fps total: 49407 epoch: 804/1000
+fps step: 58490 fps step and policy inference: 56273 fps total: 49620 epoch: 805/1000
+fps step: 58461 fps step and policy inference: 56363 fps total: 49624 epoch: 806/1000
+fps step: 58124 fps step and policy inference: 55989 fps total: 49451 epoch: 807/1000
+fps step: 53410 fps step and policy inference: 51445 fps total: 45675 epoch: 808/1000
+fps step: 53112 fps step and policy inference: 51180 fps total: 45520 epoch: 809/1000
+fps step: 53951 fps step and policy inference: 52016 fps total: 46267 epoch: 810/1000
+fps step: 58765 fps step and policy inference: 56627 fps total: 49972 epoch: 811/1000
+fps step: 57416 fps step and policy inference: 55376 fps total: 48922 epoch: 812/1000
+fps step: 58907 fps step and policy inference: 56726 fps total: 50047 epoch: 813/1000
+fps step: 59948 fps step and policy inference: 57720 fps total: 50876 epoch: 814/1000
+fps step: 58134 fps step and policy inference: 56034 fps total: 49330 epoch: 815/1000
+fps step: 59387 fps step and policy inference: 57232 fps total: 50467 epoch: 816/1000
+fps step: 58699 fps step and policy inference: 56534 fps total: 49813 epoch: 817/1000
+fps step: 59064 fps step and policy inference: 56923 fps total: 50367 epoch: 818/1000
+fps step: 59301 fps step and policy inference: 57148 fps total: 50398 epoch: 819/1000
+fps step: 58782 fps step and policy inference: 56689 fps total: 49913 epoch: 820/1000
+fps step: 59346 fps step and policy inference: 57142 fps total: 50414 epoch: 821/1000
+fps step: 58505 fps step and policy inference: 56408 fps total: 49768 epoch: 822/1000
+fps step: 58785 fps step and policy inference: 56718 fps total: 49840 epoch: 823/1000
+fps step: 59895 fps step and policy inference: 57708 fps total: 50813 epoch: 824/1000
+fps step: 59026 fps step and policy inference: 56854 fps total: 50083 epoch: 825/1000
+fps step: 59464 fps step and policy inference: 57290 fps total: 50522 epoch: 826/1000
+fps step: 58831 fps step and policy inference: 56715 fps total: 49799 epoch: 827/1000
+fps step: 58888 fps step and policy inference: 56726 fps total: 50090 epoch: 828/1000
+fps step: 58397 fps step and policy inference: 56314 fps total: 49469 epoch: 829/1000
+fps step: 58964 fps step and policy inference: 56791 fps total: 49806 epoch: 830/1000
+fps step: 59273 fps step and policy inference: 57098 fps total: 50224 epoch: 831/1000
+fps step: 59158 fps step and policy inference: 56928 fps total: 49913 epoch: 832/1000
+fps step: 59112 fps step and policy inference: 56940 fps total: 49927 epoch: 833/1000
+fps step: 58770 fps step and policy inference: 56609 fps total: 49777 epoch: 834/1000
+fps step: 59118 fps step and policy inference: 56951 fps total: 50041 epoch: 835/1000
+fps step: 59354 fps step and policy inference: 57209 fps total: 50251 epoch: 836/1000
+fps step: 59223 fps step and policy inference: 56991 fps total: 50023 epoch: 837/1000
+fps step: 59047 fps step and policy inference: 56909 fps total: 50091 epoch: 838/1000
+fps step: 58999 fps step and policy inference: 56843 fps total: 49945 epoch: 839/1000
+fps step: 58423 fps step and policy inference: 56278 fps total: 49475 epoch: 840/1000
+fps step: 59485 fps step and policy inference: 57254 fps total: 50308 epoch: 841/1000
+fps step: 59237 fps step and policy inference: 57064 fps total: 50068 epoch: 842/1000
+fps step: 59068 fps step and policy inference: 56905 fps total: 49737 epoch: 843/1000
+fps step: 52962 fps step and policy inference: 51038 fps total: 45450 epoch: 844/1000
+fps step: 58937 fps step and policy inference: 56824 fps total: 49928 epoch: 845/1000
+fps step: 59155 fps step and policy inference: 57031 fps total: 50178 epoch: 846/1000
+fps step: 58613 fps step and policy inference: 56504 fps total: 49623 epoch: 847/1000
+fps step: 58668 fps step and policy inference: 56479 fps total: 49823 epoch: 848/1000
+fps step: 58369 fps step and policy inference: 56260 fps total: 49566 epoch: 849/1000
+fps step: 57963 fps step and policy inference: 55862 fps total: 49127 epoch: 850/1000
+=> saving checkpoint 'runs/Crazyflie/nn/last_Crazyflie_ep_850_rew_66878.69.pth'
+fps step: 58559 fps step and policy inference: 56430 fps total: 49611 epoch: 851/1000
+fps step: 60136 fps step and policy inference: 57958 fps total: 50603 epoch: 852/1000
+fps step: 58506 fps step and policy inference: 56387 fps total: 49489 epoch: 853/1000
+fps step: 58192 fps step and policy inference: 56001 fps total: 49352 epoch: 854/1000
+fps step: 58484 fps step and policy inference: 56367 fps total: 49510 epoch: 855/1000
+fps step: 58511 fps step and policy inference: 56396 fps total: 49610 epoch: 856/1000
+fps step: 58638 fps step and policy inference: 56527 fps total: 49939 epoch: 857/1000
+fps step: 59334 fps step and policy inference: 57162 fps total: 50290 epoch: 858/1000
+fps step: 58193 fps step and policy inference: 56109 fps total: 49412 epoch: 859/1000
+fps step: 58348 fps step and policy inference: 56242 fps total: 49356 epoch: 860/1000
+fps step: 53056 fps step and policy inference: 51102 fps total: 45427 epoch: 861/1000
+fps step: 57762 fps step and policy inference: 55634 fps total: 48956 epoch: 862/1000
+fps step: 58426 fps step and policy inference: 56298 fps total: 49399 epoch: 863/1000
+fps step: 58879 fps step and policy inference: 56653 fps total: 49705 epoch: 864/1000
+fps step: 58868 fps step and policy inference: 56762 fps total: 49905 epoch: 865/1000
+fps step: 58589 fps step and policy inference: 56493 fps total: 49638 epoch: 866/1000
+fps step: 58306 fps step and policy inference: 56193 fps total: 49613 epoch: 867/1000
+fps step: 58922 fps step and policy inference: 56748 fps total: 50001 epoch: 868/1000
+fps step: 59206 fps step and policy inference: 57017 fps total: 50126 epoch: 869/1000
+fps step: 59298 fps step and policy inference: 57101 fps total: 50180 epoch: 870/1000
+fps step: 59141 fps step and policy inference: 56926 fps total: 49981 epoch: 871/1000
+fps step: 58349 fps step and policy inference: 56170 fps total: 49388 epoch: 872/1000
+fps step: 59332 fps step and policy inference: 57166 fps total: 50217 epoch: 873/1000
+fps step: 58524 fps step and policy inference: 56418 fps total: 49555 epoch: 874/1000
+fps step: 58782 fps step and policy inference: 56659 fps total: 49712 epoch: 875/1000
+fps step: 58689 fps step and policy inference: 56534 fps total: 49606 epoch: 876/1000
+fps step: 58697 fps step and policy inference: 56587 fps total: 49633 epoch: 877/1000
+fps step: 58633 fps step and policy inference: 56462 fps total: 49604 epoch: 878/1000
+fps step: 59195 fps step and policy inference: 57011 fps total: 49997 epoch: 879/1000
+fps step: 54627 fps step and policy inference: 52611 fps total: 46526 epoch: 880/1000
+fps step: 54568 fps step and policy inference: 52622 fps total: 46571 epoch: 881/1000
+fps step: 58434 fps step and policy inference: 56293 fps total: 49477 epoch: 882/1000
+fps step: 58898 fps step and policy inference: 56740 fps total: 49773 epoch: 883/1000
+fps step: 58897 fps step and policy inference: 56767 fps total: 50080 epoch: 884/1000
+fps step: 58813 fps step and policy inference: 56671 fps total: 49958 epoch: 885/1000
+fps step: 59206 fps step and policy inference: 57034 fps total: 50013 epoch: 886/1000
+fps step: 59962 fps step and policy inference: 57740 fps total: 50693 epoch: 887/1000
+fps step: 59089 fps step and policy inference: 56952 fps total: 49936 epoch: 888/1000
+fps step: 59626 fps step and policy inference: 57460 fps total: 50563 epoch: 889/1000
+fps step: 59551 fps step and policy inference: 57315 fps total: 50418 epoch: 890/1000
+fps step: 59252 fps step and policy inference: 57129 fps total: 50165 epoch: 891/1000
+fps step: 59164 fps step and policy inference: 56944 fps total: 50084 epoch: 892/1000
+fps step: 58819 fps step and policy inference: 56718 fps total: 50044 epoch: 893/1000
+fps step: 58823 fps step and policy inference: 56719 fps total: 49943 epoch: 894/1000
+fps step: 59228 fps step and policy inference: 57060 fps total: 50274 epoch: 895/1000
+fps step: 59924 fps step and policy inference: 57675 fps total: 50835 epoch: 896/1000
+fps step: 58860 fps step and policy inference: 56720 fps total: 49885 epoch: 897/1000
+fps step: 58264 fps step and policy inference: 56176 fps total: 49282 epoch: 898/1000
+fps step: 59128 fps step and policy inference: 56985 fps total: 50122 epoch: 899/1000
+fps step: 58419 fps step and policy inference: 56308 fps total: 49500 epoch: 900/1000
+=> saving checkpoint 'runs/Crazyflie/nn/last_Crazyflie_ep_900_rew_37133.31.pth'
+fps step: 58703 fps step and policy inference: 56653 fps total: 49819 epoch: 901/1000
+fps step: 58422 fps step and policy inference: 56256 fps total: 48658 epoch: 902/1000
+fps step: 57440 fps step and policy inference: 55330 fps total: 48683 epoch: 903/1000
+fps step: 58207 fps step and policy inference: 56007 fps total: 49213 epoch: 904/1000
+fps step: 58209 fps step and policy inference: 56154 fps total: 49501 epoch: 905/1000
+fps step: 58501 fps step and policy inference: 56372 fps total: 49715 epoch: 906/1000
+fps step: 57874 fps step and policy inference: 55780 fps total: 48843 epoch: 907/1000
+fps step: 59010 fps step and policy inference: 56863 fps total: 50023 epoch: 908/1000
+fps step: 54089 fps step and policy inference: 51984 fps total: 46146 epoch: 909/1000
+fps step: 54732 fps step and policy inference: 52714 fps total: 46766 epoch: 910/1000
+fps step: 54709 fps step and policy inference: 52662 fps total: 46636 epoch: 911/1000
+fps step: 54695 fps step and policy inference: 52652 fps total: 46570 epoch: 912/1000
+fps step: 56845 fps step and policy inference: 54763 fps total: 48183 epoch: 913/1000
+fps step: 58975 fps step and policy inference: 56813 fps total: 49939 epoch: 914/1000
+fps step: 60988 fps step and policy inference: 58655 fps total: 51303 epoch: 915/1000
+fps step: 60824 fps step and policy inference: 58481 fps total: 51045 epoch: 916/1000
+fps step: 59884 fps step and policy inference: 57662 fps total: 50490 epoch: 917/1000
+fps step: 60687 fps step and policy inference: 58398 fps total: 51055 epoch: 918/1000
+fps step: 59982 fps step and policy inference: 57777 fps total: 50649 epoch: 919/1000
+fps step: 60566 fps step and policy inference: 58228 fps total: 50928 epoch: 920/1000
+fps step: 59783 fps step and policy inference: 57555 fps total: 50391 epoch: 921/1000
+fps step: 58988 fps step and policy inference: 56835 fps total: 49871 epoch: 922/1000
+fps step: 59780 fps step and policy inference: 57548 fps total: 50683 epoch: 923/1000
+fps step: 59023 fps step and policy inference: 56854 fps total: 49767 epoch: 924/1000
+fps step: 59584 fps step and policy inference: 57389 fps total: 50239 epoch: 925/1000
+fps step: 58550 fps step and policy inference: 56388 fps total: 49385 epoch: 926/1000
+fps step: 58640 fps step and policy inference: 56458 fps total: 49593 epoch: 927/1000
+fps step: 58986 fps step and policy inference: 56764 fps total: 49746 epoch: 928/1000
+fps step: 58183 fps step and policy inference: 56036 fps total: 49156 epoch: 929/1000
+fps step: 57706 fps step and policy inference: 55609 fps total: 48848 epoch: 930/1000
+fps step: 57925 fps step and policy inference: 55802 fps total: 49203 epoch: 931/1000
+fps step: 59067 fps step and policy inference: 56877 fps total: 49926 epoch: 932/1000
+fps step: 58948 fps step and policy inference: 56812 fps total: 49732 epoch: 933/1000
+fps step: 59627 fps step and policy inference: 57396 fps total: 50309 epoch: 934/1000
+fps step: 58786 fps step and policy inference: 56578 fps total: 49532 epoch: 935/1000
+fps step: 58679 fps step and policy inference: 56499 fps total: 49588 epoch: 936/1000
+fps step: 59677 fps step and policy inference: 57449 fps total: 50521 epoch: 937/1000
+fps step: 58842 fps step and policy inference: 56661 fps total: 49646 epoch: 938/1000
+fps step: 59982 fps step and policy inference: 57760 fps total: 50601 epoch: 939/1000
+fps step: 59400 fps step and policy inference: 57149 fps total: 50079 epoch: 940/1000
+fps step: 58636 fps step and policy inference: 56480 fps total: 49533 epoch: 941/1000
+fps step: 59587 fps step and policy inference: 57300 fps total: 50261 epoch: 942/1000
+fps step: 59189 fps step and policy inference: 57014 fps total: 49934 epoch: 943/1000
+fps step: 59292 fps step and policy inference: 57104 fps total: 50195 epoch: 944/1000
+fps step: 59494 fps step and policy inference: 57312 fps total: 50314 epoch: 945/1000
+fps step: 57269 fps step and policy inference: 55208 fps total: 48407 epoch: 946/1000
+fps step: 58454 fps step and policy inference: 56261 fps total: 49584 epoch: 947/1000
+fps step: 59012 fps step and policy inference: 56763 fps total: 49771 epoch: 948/1000
+fps step: 58211 fps step and policy inference: 56066 fps total: 49386 epoch: 949/1000
+fps step: 59058 fps step and policy inference: 56820 fps total: 49992 epoch: 950/1000
+=> saving checkpoint 'runs/Crazyflie/nn/last_Crazyflie_ep_950_rew_37455.465.pth'
+fps step: 59636 fps step and policy inference: 57440 fps total: 50357 epoch: 951/1000
+fps step: 59441 fps step and policy inference: 57270 fps total: 50283 epoch: 952/1000
+fps step: 59352 fps step and policy inference: 57176 fps total: 50135 epoch: 953/1000
+fps step: 59136 fps step and policy inference: 56950 fps total: 50011 epoch: 954/1000
+fps step: 59465 fps step and policy inference: 57300 fps total: 50174 epoch: 955/1000
+fps step: 58461 fps step and policy inference: 56294 fps total: 49343 epoch: 956/1000
+fps step: 58855 fps step and policy inference: 56661 fps total: 49767 epoch: 957/1000
+fps step: 59243 fps step and policy inference: 57026 fps total: 50022 epoch: 958/1000
+fps step: 59916 fps step and policy inference: 57621 fps total: 50447 epoch: 959/1000
+fps step: 59100 fps step and policy inference: 56916 fps total: 49822 epoch: 960/1000
+fps step: 58249 fps step and policy inference: 56103 fps total: 49325 epoch: 961/1000
+fps step: 59856 fps step and policy inference: 57611 fps total: 50372 epoch: 962/1000
+fps step: 58531 fps step and policy inference: 56412 fps total: 49409 epoch: 963/1000
+fps step: 59836 fps step and policy inference: 57627 fps total: 50501 epoch: 964/1000
+fps step: 59909 fps step and policy inference: 57655 fps total: 50321 epoch: 965/1000
+fps step: 59134 fps step and policy inference: 56978 fps total: 50003 epoch: 966/1000
+fps step: 59638 fps step and policy inference: 57381 fps total: 50399 epoch: 967/1000
+fps step: 59234 fps step and policy inference: 57067 fps total: 50014 epoch: 968/1000
+fps step: 59577 fps step and policy inference: 57334 fps total: 50353 epoch: 969/1000
+fps step: 59698 fps step and policy inference: 57471 fps total: 50222 epoch: 970/1000
+fps step: 59854 fps step and policy inference: 57630 fps total: 50728 epoch: 971/1000
+fps step: 59652 fps step and policy inference: 57433 fps total: 50245 epoch: 972/1000
+fps step: 59490 fps step and policy inference: 57221 fps total: 50303 epoch: 973/1000
+fps step: 58962 fps step and policy inference: 56790 fps total: 49875 epoch: 974/1000
+fps step: 59091 fps step and policy inference: 56859 fps total: 49903 epoch: 975/1000
+fps step: 59220 fps step and policy inference: 57054 fps total: 50095 epoch: 976/1000
+fps step: 58549 fps step and policy inference: 56386 fps total: 49397 epoch: 977/1000
+fps step: 59495 fps step and policy inference: 57282 fps total: 50199 epoch: 978/1000
+fps step: 59355 fps step and policy inference: 57105 fps total: 50047 epoch: 979/1000
+fps step: 58860 fps step and policy inference: 56660 fps total: 49674 epoch: 980/1000
+fps step: 59529 fps step and policy inference: 57302 fps total: 50372 epoch: 981/1000
+fps step: 58728 fps step and policy inference: 56603 fps total: 49677 epoch: 982/1000
+fps step: 59102 fps step and policy inference: 56975 fps total: 49919 epoch: 983/1000
+fps step: 59751 fps step and policy inference: 57534 fps total: 50492 epoch: 984/1000
+fps step: 58707 fps step and policy inference: 56532 fps total: 49649 epoch: 985/1000
+fps step: 59968 fps step and policy inference: 57702 fps total: 50557 epoch: 986/1000
+fps step: 59652 fps step and policy inference: 57423 fps total: 50376 epoch: 987/1000
+fps step: 59425 fps step and policy inference: 57191 fps total: 50243 epoch: 988/1000
+fps step: 59360 fps step and policy inference: 57107 fps total: 50064 epoch: 989/1000
+fps step: 58996 fps step and policy inference: 56777 fps total: 49725 epoch: 990/1000
+fps step: 58896 fps step and policy inference: 56723 fps total: 49888 epoch: 991/1000
+fps step: 58620 fps step and policy inference: 56424 fps total: 49470 epoch: 992/1000
+fps step: 59284 fps step and policy inference: 57074 fps total: 50073 epoch: 993/1000
+fps step: 59359 fps step and policy inference: 57139 fps total: 50350 epoch: 994/1000
+fps step: 59013 fps step and policy inference: 56805 fps total: 49881 epoch: 995/1000
+fps step: 59132 fps step and policy inference: 56994 fps total: 50061 epoch: 996/1000
+fps step: 58697 fps step and policy inference: 56438 fps total: 49483 epoch: 997/1000
+fps step: 58371 fps step and policy inference: 56216 fps total: 49333 epoch: 998/1000
+fps step: 58600 fps step and policy inference: 56435 fps total: 49781 epoch: 999/1000
+fps step: 58536 fps step and policy inference: 56405 fps total: 49533 epoch: 1000/1000

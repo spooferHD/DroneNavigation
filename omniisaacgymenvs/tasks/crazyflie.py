@@ -137,8 +137,8 @@ class CrazyflieTask(RLTask):
         self.get_crazyflie()
         self.get_target()
         self.get_target_dummy()
-        #self.get_target_hindernis()
-        self.get_target_hindernis_random()
+        self.get_target_hindernis()
+        #self.get_target_hindernis_random()
 
         RLTask.set_up_scene(self, scene)
         self._copters = CrazyflieView(prim_paths_expr="/World/envs/.*/Crazyflie", name="crazyflie_view")
@@ -433,27 +433,27 @@ class CrazyflieTask(RLTask):
         #Obstacle radius = 0.4 -> also 0.4 in alle richtungen breit. -> Drohne sollte ab 0.3 abstand halten. ->
         #Also ab dist. von 0.4 soll penalty gegeben werden. Bis max. 0.8 Abstand dann.
         #Funktion beispiel: f(x)=((0.1)/(-2+5 x)) ODER f(x)=((0.1)/(-4+10 x)) ODER (BASE) f(x)=((1)/(-0.4+x))
-        #obstacle_dist = torch.sqrt(torch.square(self._ball_position_hindernis - self.root_positions).sum(-1))
-        #obstacle_reward = ((0.1) / (-1 + 2.5 * obstacle_dist)) #testing temp
+        obstacle_dist = torch.sqrt(torch.square(self._ball_position_hindernis - self.root_positions).sum(-1))
+        obstacle_reward = ((0.1) / (-1 + 2.5 * obstacle_dist)) #testing temp
 
         #print(f"obstacle_dist: {obstacle_dist} | obstacle_reward: {obstacle_reward}")
 
 
         #RANDOM BALL POSITION stored in self._ball_position_hindernis_random. With radius of 0.2. Also Dist soll
         #Function: ((0.1)/(-2+10 x)) -> 0.2 Inf. Und soll bis 0.4 starke Penalty kriegen. Alternativ ((0.1)/(-1+5 x))
-        obstacle_reward_rand = torch.zeros_like(pos_reward)
+        """obstacle_reward_rand = torch.zeros_like(pos_reward)
         for i in range(len(self._ball_position_hindernis_random)):
             obstacle_dist_rand = torch.sqrt(torch.square(self._ball_position_hindernis_random[i] - self.root_positions).sum(-1))
             obstacle_reward_local = (0.1) / (-2 + 10 * obstacle_dist_rand)
             obstacle_reward_rand.add_(obstacle_reward_local)
             #print(f"{i} - obstacle_reward_rand: {obstacle_reward_rand}")
-
+"""
 
 
         #print(f"obstacle_reward_rand: {obstacle_reward_rand}")
         #ACTUAL reward
-        #self.rew_buf[:] = pos_reward + pos_reward * (0*up_reward + spin_reward) - effort_reward - obstacle_reward
-        self.rew_buf[:] = pos_reward + pos_reward * (0*up_reward + spin_reward) - effort_reward - obstacle_reward_rand
+        self.rew_buf[:] = pos_reward + pos_reward * (0*up_reward + spin_reward) - effort_reward - obstacle_reward
+        #self.rew_buf[:] = pos_reward + pos_reward * (0*up_reward + spin_reward) - effort_reward - obstacle_reward_rand
 
 
 
