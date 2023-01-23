@@ -184,13 +184,14 @@ class CrazyflieTask(RLTask):
 
     def get_target_hindernis(self):
         radius = 0.4
-        color = torch.tensor([1, 1, 1])
+        color = torch.tensor([0, 1, 0])
         ball = DynamicSphere(
             prim_path=self.default_zero_env_path + "/ball3",
             translation=self._ball_position_hindernis,
             name="target_0",
             radius=radius,
-            color=color)
+            color=color
+        )
         self._sim_config.apply_articulation_settings("ball3", get_prim_at_path(ball.prim_path),
                                                      self._sim_config.parse_actor_config("ball3"))
         ball.set_collision_enabled(True)
