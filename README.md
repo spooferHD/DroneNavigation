@@ -5,7 +5,7 @@
 This repository contains a Reinforcement Learning Drone example that can be run with the latest release of [Isaac Sim](https://docs.omniverse.nvidia.com/app_isaacsim/app_isaacsim/overview.html). RL examples are trained using PPO from [rl_games](https://github.com/Denys88/rl_games) library and examples are built on top of Isaac Sim's `omni.isaac.core` and `omni.isaac.gym` frameworks.
 
 <video width="300" height="150" controls>
-  <source src="https://github.com/spooferHD/DroneNavigation/blob/a51087046a981e9f14c45d28ec4f8b57d50340df/videos/Last_env.webm" type="video/webm">
+  <source src="https://github.com/spooferHD/DroneNavigation/blob/a51087046a981e9f14c45d28ec4f8b57d50340df/videos/Last_env.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
